@@ -1,0 +1,696 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<map xmlns:xsi="http://www.w3.org/2001/XInclude">
+  <topicref type="topic" id="454058755942854" build="ALL" modified="2018-03-02T12:12:58.039Z" icon="2" href="Safety">
+    <caption translate="true">Chapter 1   Safety</caption>
+    <topicref type="topic" id="453425483128619" build="ALL" modified="2024-07-03T11:35:59.818Z" icon="0" href="1-Safety-Precautions">
+      <caption translate="true">Safety Precautions</caption>
+      <topicref type="topic" id="453427612199863" build="ALL" modified="2024-02-20T14:18:27.866Z" icon="0" href="1_1-Operators-Checks">
+        <caption translate="true">Operators Checks</caption>
+      </topicref>
+      <topicref type="topic" id="453423888419326" build="ALL" modified="2024-02-20T14:18:32.365Z" icon="0" href="1_2-Work-Environment-Checks">
+        <caption translate="true">Work Environment Checks</caption>
+      </topicref>
+      <topicref type="topic" id="453424905915771" build="ALL" modified="2024-02-20T14:18:37.230Z" icon="0" href="1_3-Precautions-for-Potential-">
+        <caption translate="true">Precautions for Potential Fire Hazards</caption>
+      </topicref>
+      <topicref type="topic" id="453427778477240" build="ALL" modified="2024-02-20T14:18:41.931Z" icon="0" href="1_4-Confirmation-of-Machine-St">
+        <caption translate="true">Confirmation of Machine Status</caption>
+      </topicref>
+      <topicref type="topic" id="453424490442299" build="ALL" modified="2024-02-20T14:18:46.739Z" icon="0" href="1_5-Pre-operation-Checks">
+        <caption translate="true">Pre-operation Checks</caption>
+      </topicref>
+      <topicref type="topic" id="453426620754609" build="ALL" modified="2024-02-08T08:11:43.558Z" icon="0" href="1_6-Implementing-Lock-out-and-Tag-out">
+        <caption translate="true">Implementing Lock-out and Tag-out</caption>
+      </topicref>
+      <topicref type="topic" id="453426610956875" build="ALL" modified="2024-02-20T14:18:53.689Z" icon="0" href="1_7-During-Work">
+        <caption translate="true">During Work</caption>
+      </topicref>
+      <topicref type="topic" id="453424629785208" build="ALL" modified="2024-02-20T14:19:02.501Z" icon="0" href="1_8-Handling-of-Hazardous-and-">
+        <caption translate="true">Handling of Hazardous and Toxic Materials</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453423809306252" build="ALL" modified="2024-07-03T11:36:10.865Z" icon="0" href="2-Warning-Labels">
+      <caption translate="true">Warning Labels</caption>
+      <topicref type="topic" id="453427316915208" build="ALL" modified="2024-02-20T14:19:12.755Z" icon="0" href="2_1-Signal-Word-Definitions">
+        <caption translate="true">Signal Word Definitions</caption>
+      </topicref>
+      <topicref type="topic" id="453427910452570" build="ALL" modified="2024-02-20T14:19:17.999Z" icon="0" href="2_2-Using-Warning-Labels">
+        <caption translate="true">Using Warning Labels</caption>
+      </topicref>
+      <topicref type="topic" id="453426351453338" build="ALL" modified="2024-02-20T14:19:40.086Z" icon="0" href="2_3-Information-Contained-in-W">
+        <caption translate="true">Information Contained in Warning Labels</caption>
+        <topicref type="topic" id="453425323002476" build="ALL" modified="2024-02-20T14:19:45.251Z" icon="0" href="2_3_1-Warning-Labels-with-Warn">
+          <caption translate="true">Warning Labels with Warning Text</caption>
+        </topicref>
+        <topicref type="topic" id="453426657395647" build="ALL" modified="2024-02-20T14:19:50.505Z" icon="0" href="2_3_2-Warning-Labels-with-Warn">
+          <caption translate="true">Warning Labels with Warning Marks Only</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453424314414584" build="ALL" modified="2024-02-20T14:19:55.876Z" icon="0" href="2_4-Warning-Labels-Locations">
+        <caption translate="true">Warning Labels Locations</caption>
+        <topicref type="topic" id="453425985738109" build="ALL" modified="2024-02-20T14:20:01.819Z" icon="0" href="2_4_1-Warning-Labels-Locations">
+          <caption translate="true">Warning Labels Locations on Standard Machine</caption>
+        </topicref>
+        <topicref type="topic" id="453424395714366" build="ALL" modified="2024-02-20T14:20:07.276Z" icon="0" href="2_4_2-Labels">
+          <caption translate="true">Labels</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453426293330958" build="ALL" modified="2024-07-03T11:36:14.922Z" icon="0" href="3-Safety-Devices">
+      <caption translate="true">Safety Devices</caption>
+      <topicref type="topic" id="453425939771322" build="ALL" modified="2024-02-20T14:20:16.657Z" icon="0" href="3_1-Emergency-Stop-Switch">
+        <caption translate="true">Emergency Stop Switch</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453426188928830" build="ALL" modified="2024-02-20T14:20:22.003Z" icon="0" href="4-Work-Hazards">
+      <caption translate="true">Work Hazards</caption>
+      <topicref type="topic" id="453424305998712" build="ALL" modified="2024-02-20T14:20:27.781Z" icon="0" href="4_1-Area-Surrounding-Machine">
+        <caption translate="true">Area Surrounding Machine</caption>
+      </topicref>
+      <topicref type="topic" id="453424422036168" build="ALL" modified="2024-07-03T11:36:19.481Z" icon="0" href="4_2-Electrical-System">
+        <caption translate="true">Electrical System</caption>
+      </topicref>
+      <topicref type="topic" id="453424769652169" build="ALL" modified="2024-07-03T11:36:24.642Z" icon="0" href="4_3-Parameters">
+        <caption translate="true">Parameters</caption>
+      </topicref>
+      <topicref type="topic" id="453427307381990" build="ALL" modified="2024-02-20T14:21:02.377Z" icon="0" href="4_4-Inside-the-Machining-Chamb">
+        <caption translate="true">Inside the Machining Chamber</caption>
+      </topicref>
+      <topicref type="topic" id="453427672424846" build="ALL" modified="2024-02-20T14:21:07.436Z" icon="0" href="4_5-Tool-Magazine">
+        <caption translate="true">Tool Magazine</caption>
+      </topicref>
+      <topicref type="topic" id="453426313130017" build="ALL" modified="2024-02-20T14:21:14.178Z" icon="0" href="4_6-Cutting-Fluid-Supply-Unit">
+        <caption translate="true">Cutting Fluid Supply Unit/Chip Disposal Device/Cutting Fluid Temperature Controller/Dust Collector (Graphite Specifications)</caption>
+      </topicref>
+      <topicref type="topic" id="453426506634852" build="ALL" modified="2024-02-20T14:21:19.116Z" icon="0" href="4_7-Spindle-Lubricant-Controll">
+        <caption translate="true">Spindle Lubricant Controller/Feed Axis Temperature Controller/Hydraulic Unit</caption>
+      </topicref>
+      <topicref type="topic" id="453423792121836" build="ALL" modified="2024-02-20T14:21:24.059Z" icon="0" href="4_8-Pneumatic-Unit">
+        <caption translate="true">Pneumatic Unit</caption>
+      </topicref>
+      <topicref type="topic" id="453426859755215" build="ALL" modified="2024-02-20T14:21:28.704Z" icon="0" href="4_9-Splash-Guard">
+        <caption translate="true">Splash Guard</caption>
+      </topicref>
+      <topicref type="topic" id="453425211533442" build="ALL" modified="2024-02-20T14:21:34.112Z" icon="0" href="4_10-Other-Peripheral-Equipmen">
+        <caption translate="true">Other Peripheral Equipment</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453425828214965" build="ALL" modified="2024-02-20T14:21:39.296Z" icon="0" href="5-Occupational-Health-and-Safe">
+      <caption translate="true">Occupational Health and Safety Management</caption>
+      <topicref type="topic" id="453427390112257" build="ALL" modified="2024-02-20T14:21:47.445Z" icon="0" href="5_1-Safety-Device-Inspection">
+        <caption translate="true">Safety Device Inspection</caption>
+      </topicref>
+      <topicref type="topic" id="453424615558903" build="ALL" modified="2024-02-20T14:21:51.803Z" icon="0" href="5_2-Noise">
+        <caption translate="true">Noise</caption>
+      </topicref>
+      <topicref type="topic" id="453426081015395" build="ALL" modified="2024-02-20T14:22:15.540Z" icon="0" href="5_3-Personal-Protective-Equipm">
+        <caption translate="true">Personal Protective Equipment</caption>
+      </topicref>
+      <topicref type="topic" id="453427050140300" build="ALL" modified="2024-02-20T14:22:35.644Z" icon="0" href="5_4-Disposal-of-Waste-Products">
+        <caption translate="true">Disposal of Waste Products</caption>
+        <topicref type="topic" id="453425999013064" build="ALL" modified="2024-02-20T14:22:41.274Z" icon="0" href="5_4_1-Disposal-of-Waste-Oil_-W">
+          <caption translate="true">Disposal of Waste Oil, Waste Fluids and Waste Materials</caption>
+        </topicref>
+        <topicref type="topic" id="453424068532159" build="ALL" modified="2024-02-20T14:22:48.810Z" icon="0" href="5_4_2-Disposal-of-This-Machine">
+          <caption translate="true">Disposal of This Machine</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453722206878941" build="ALL" modified="2024-03-21T09:27:24.164Z" icon="0" href="Chapter-2-Machine-Controller">
+    <caption translate="true">Chapter 2 Machine Controller</caption>
+    <topicref type="topic" id="453725365898726" build="ALL" modified="2024-03-21T09:28:07.735Z" icon="0" href="Overview">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453724302942156" build="ALL" modified="2024-03-21T09:28:30.128Z" icon="0" href="Component-Name">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453725176188932" build="ALL" modified="2024-08-26T13:43:09.577Z" icon="0" href="Professional-u">
+        <caption translate="true">Professional u</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="45371120538194" build="ALL" modified="2024-03-21T09:29:05.827Z" icon="0" href="NC-Screen">
+      <caption translate="true">NC Screen</caption>
+      <topicref type="topic" id="453724548209694" build="ALL" modified="2024-03-21T09:31:43.420Z" icon="0" href="Position-Display-Screen">
+        <caption translate="true">Position Display Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453722498870963" build="ALL" modified="2024-03-21T09:32:01.051Z" icon="0" href="Offset_Setting-Screen">
+        <caption translate="true">Offset/Setting Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453722984174990" build="ALL" modified="2024-03-21T09:32:15.556Z" icon="0" href="System-Screen">
+        <caption translate="true">System Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453724907680473" build="ALL" modified="2024-03-21T09:33:27.051Z" icon="0" href="System-Screen2">
+        <caption translate="true">Message Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453723010885277" build="ALL" modified="2024-03-21T09:34:57.394Z" icon="0" href="NC-Parameter-Screen-Display_In">
+        <caption translate="true">NC Parameter Screen Display/Input/Modification Procedure</caption>
+      </topicref>
+      <topicref type="topic" id="453725817013325" build="ALL" modified="2024-03-21T09:36:13.997Z" icon="0" href="Ladder-Screen">
+        <caption translate="true">Ladder Screen</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453725232156645" build="ALL" modified="2024-03-21T09:29:45.452Z" icon="0" href="Parameter_-Program-and-Data-In">
+      <caption translate="true">Parameter, Program and Data Input/Output Procedure</caption>
+      <topicref type="topic" id="453724573692886" build="ALL" modified="2024-03-21T09:36:33.896Z" icon="0" href="Machine-Data-Input_Output-Proc">
+        <caption translate="true">Machine Data Input/Output Procedure</caption>
+        <topicref type="topic" id="45370590368858" build="ALL" modified="2024-03-21T10:56:49.801Z" icon="0" href="NC-Parameter">
+          <caption translate="true">NC Parameter</caption>
+        </topicref>
+        <topicref type="topic" id="453726054567451" build="ALL" modified="2024-03-21T10:57:37.713Z" icon="0" href="NC-Parameter2">
+          <caption translate="true">Tool Offset Data</caption>
+        </topicref>
+        <topicref type="topic" id="453723022259349" build="ALL" modified="2024-03-21T10:59:06.402Z" icon="0" href="Pitch-Error-Compensation-Data">
+          <caption translate="true">Pitch Error Compensation Data</caption>
+        </topicref>
+        <topicref type="topic" id="453724179848855" build="ALL" modified="2024-03-21T11:02:37.989Z" icon="0" href="Custom-Macro-Common-Variables">
+          <caption translate="true">Custom Macro Common Variables</caption>
+        </topicref>
+        <topicref type="topic" id="453723625503275" build="ALL" modified="2024-03-21T11:06:31.948Z" icon="0" href="Workpiece-Coordinate-System-Da">
+          <caption translate="true">Workpiece Coordinate System Data</caption>
+        </topicref>
+        <topicref type="topic" id="453722976621366" build="ALL" modified="2024-03-21T11:22:29.398Z" icon="0" href="Input_Output-Data-Using-All-I_">
+          <caption translate="true">Input/Output Data Using All I/O Screen</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453722964802924" build="ALL" modified="2024-03-21T11:28:19.212Z" icon="0" href="NC-Program-Input_Output-Proced">
+        <caption translate="true">NC Program Input/Output Procedure</caption>
+      </topicref>
+      <topicref type="topic" id="45372526897553" build="ALL" modified="2024-03-21T11:28:42.272Z" icon="0" href="SRAM-Data-Backup">
+        <caption translate="true">SRAM Data Backup</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453726858624237" build="ALL" modified="2024-03-21T15:03:25.497Z" icon="0" href="Chapter-3-Machine-Maintenance">
+    <caption translate="true">Chapter 3 Machine Maintenance</caption>
+    <topicref type="topic" id="453726305870409" build="ALL" modified="2024-03-21T15:04:41.352Z" icon="0" href="Overview2">
+      <caption translate="true">Overview</caption>
+    </topicref>
+    <topicref type="topic" id="453726658662370" build="ALL" modified="2024-03-21T15:05:00.218Z" icon="0" href="Automatic-Tool-Changer-(ATC)">
+      <caption translate="true">Automatic Tool Changer (ATC)</caption>
+      <topicref type="topic" id="453725118205415" build="ALL" modified="2024-03-21T15:08:44.751Z" icon="0" href="ATC-Maintenance-Items">
+        <caption translate="true">ATC Maintenance Items</caption>
+      </topicref>
+      <topicref type="topic" id="45371814614886" build="ALL" modified="2024-03-21T15:08:58.873Z" icon="0" href="ATC-Maintenance-Screen">
+        <caption translate="true">ATC Maintenance Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453727220813983" build="ALL" modified="2024-03-21T15:09:10.306Z" icon="0" href="Confirming-Signal-Status">
+        <caption translate="true">Confirming Signal Status</caption>
+      </topicref>
+      <topicref type="topic" id="453726315521171" build="ALL" modified="2024-03-21T15:09:29.023Z" icon="0" href="Confirming-Maintenance-Advice">
+        <caption translate="true">Confirming Maintenance Advice</caption>
+      </topicref>
+      <topicref type="topic" id="453726818356493" build="ALL" modified="2024-03-21T15:09:52.908Z" icon="0" href="Tool-Change-Operation-Overview">
+        <caption translate="true">Tool Change Operation Overview</caption>
+        <topicref type="topic" id="453728247189318" build="ALL" modified="2024-03-21T16:44:07.042Z" icon="0" href="Tool-Change-Operation-Sequence">
+          <caption translate="true">Tool Change Operation Sequence</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453732557057754" build="ALL" modified="2024-03-22T08:12:00.789Z" icon="0" href="ATC-Recovery-Operation">
+        <caption translate="true">ATC Recovery Operation</caption>
+        <topicref type="topic" id="453733774648410" build="ALL" modified="2024-03-22T08:12:31.464Z" icon="0" href="ATC-Manual-Recovery-Operation">
+          <caption translate="true">ATC Manual Recovery Operation</caption>
+        </topicref>
+        <topicref type="topic" id="453731543277673" build="ALL" modified="2024-03-22T08:36:03.190Z" icon="0" href="ATC-Auto-Recovery-Operation">
+          <caption translate="true">ATC Auto Recovery Operation</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453726315235685" build="ALL" modified="2024-03-21T15:05:22.702Z" icon="0" href="ATC-Magazine">
+      <caption translate="true">ATC Magazine</caption>
+      <topicref type="topic" id="453727737771385" build="ALL" modified="2024-03-21T15:10:49.864Z" icon="0" href="ATC-Magazine-Maintenance-Scree">
+        <caption translate="true">ATC Magazine Maintenance Screen</caption>
+      </topicref>
+      <topicref type="topic" id="45373862532538" build="ALL" modified="2024-03-21T15:11:01.183Z" icon="0" href="ATC-Magazine-Operation-Overvie">
+        <caption translate="true">ATC Magazine Operation Overview</caption>
+      </topicref>
+      <topicref type="topic" id="453724469484140" build="ALL" modified="2024-03-21T15:12:15.029Z" icon="0" href="ATC-Magazine-Operation">
+        <caption translate="true">ATC Magazine Operation Procedure</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="45370661368651" build="ALL" modified="2024-03-21T15:05:52.094Z" icon="0" href="Fixture-Operation">
+      <caption translate="true">Fixture Operation</caption>
+      <topicref type="topic" id="45372398481545" build="ALL" modified="2024-03-21T15:11:51.018Z" icon="0" href="Basic-Mechanical-Specification">
+        <caption translate="true">Basic Mechanical Specifications</caption>
+      </topicref>
+      <topicref type="topic" id="453727489005831" build="ALL" modified="2024-03-21T15:13:00.909Z" icon="0" href="Basic-Software-Specification">
+        <caption translate="true">Basic Software Specification</caption>
+      </topicref>
+      <topicref type="topic" id="453728452237570" build="ALL" modified="2024-03-21T15:13:14.945Z" icon="0" href="Parameters">
+        <caption translate="true">Parameters</caption>
+      </topicref>
+      <topicref type="topic" id="453727930927264" build="ALL" modified="2024-03-21T15:13:41.335Z" icon="0" href="M-Codes">
+        <caption translate="true">M Codes</caption>
+      </topicref>
+      <topicref type="topic" id="453725174477796" build="ALL" modified="2024-03-21T15:14:03.795Z" icon="0" href="Fixture-Manual-Operation">
+        <caption translate="true">Fixture Manual Operation</caption>
+        <topicref type="topic" id="453726589602660" build="ALL" modified="2024-03-21T15:14:26.039Z" icon="0" href="Fixture-Manual-Operation-Panel">
+          <caption translate="true">Fixture Manual Operation Panel (Option)</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453726312297003" build="ALL" modified="2024-03-21T15:14:49.478Z" icon="0" href="Fixture-Maintenance-Screen">
+        <caption translate="true">Fixture Maintenance Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453724278893618" build="ALL" modified="2024-03-21T15:15:04.126Z" icon="0" href="Manual-Operation-Panel">
+        <caption translate="true">Manual Operation Panel</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453724305082224" build="ALL" modified="2024-03-21T15:06:10.484Z" icon="0" href="Control-Specification">
+      <caption translate="true">Control Specification</caption>
+      <topicref type="topic" id="453726448501977" build="ALL" modified="2024-03-21T15:15:41.117Z" icon="0" href="Air-Seat-Check-(Option)">
+        <caption translate="true">Air Seat Check (Option)</caption>
+      </topicref>
+      <topicref type="topic" id="453728328430187" build="ALL" modified="2024-03-21T15:15:57.605Z" icon="0" href="Work-Load-Trigger-Type">
+        <caption translate="true">Work Load Trigger Type</caption>
+      </topicref>
+      <topicref type="topic" id="453726765847758" build="ALL" modified="2024-03-21T15:23:21.763Z" icon="0" href="Hydraulic-Power-Pack">
+        <caption translate="true">Hydraulic Power Pack</caption>
+      </topicref>
+      <topicref type="topic" id="453726437062229" build="ALL" modified="2024-03-21T15:23:33.177Z" icon="0" href="Fixture-Clamp_Unclamp">
+        <caption translate="true">Fixture Clamp/Unclamp</caption>
+        <topicref type="topic" id="453727438174146" build="ALL" modified="2024-03-21T15:23:46.701Z" icon="0" href="Fixture-Clamp_Unclamp-Start-Co">
+          <caption translate="true">Fixture Clamp/Unclamp Start Condition</caption>
+        </topicref>
+        <topicref type="topic" id="453725840576907" build="ALL" modified="2024-03-21T15:23:59.736Z" icon="0" href="Fixture-Default-Configuration">
+          <caption translate="true">Fixture Default Configuration</caption>
+        </topicref>
+        <topicref type="topic" id="453727779981234" build="ALL" modified="2024-03-21T15:24:24.558Z" icon="0" href="Customized-Clamp_Unclamp-Speci">
+          <caption translate="true">Customized Clamp/Unclamp Specification</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453728094714589" build="ALL" modified="2024-03-21T15:24:48.400Z" icon="0" href="M530_M531">
+        <caption translate="true">M530/M531</caption>
+        <topicref type="topic" id="453727790693462" build="ALL" modified="2024-03-21T15:25:03.820Z" icon="0" href="Customized-M-Code-Specificatio">
+          <caption translate="true">Customized M Code Specification</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453725105040440" build="ALL" modified="2024-03-21T15:27:03.772Z" icon="0" href="Work-Load_Unload">
+        <caption translate="true">Work Load/Unload</caption>
+        <topicref type="topic" id="453725720166414" build="ALL" modified="2024-03-21T15:27:23.080Z" icon="0" href="Work-Loading_Unloading-Start-C">
+          <caption translate="true">Work Loading/Unloading Start Conditions</caption>
+        </topicref>
+        <topicref type="topic" id="45374168185929" build="ALL" modified="2024-03-21T15:28:25.090Z" icon="0" href="Work-Load-Sequence">
+          <caption translate="true">Work Load Sequence</caption>
+        </topicref>
+        <topicref type="topic" id="453726657529112" build="ALL" modified="2024-03-21T15:28:37.118Z" icon="0" href="Work-Unload-Sequence">
+          <caption translate="true">Work Unload Sequence</caption>
+        </topicref>
+        <topicref type="topic" id="45373415716826" build="ALL" modified="2024-03-21T15:28:48.439Z" icon="0" href="Customized-Work-Load-Sequence">
+          <caption translate="true">Customized Work Load Sequence</caption>
+        </topicref>
+        <topicref type="topic" id="453728511891297" build="ALL" modified="2024-03-21T15:28:59.797Z" icon="0" href="Customized-Work-Unload-Sequenc">
+          <caption translate="true">Customized Work Unload Sequence</caption>
+        </topicref>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453726074523412" build="ALL" modified="2024-03-21T15:06:31.225Z" icon="0" href="Configuration-Procedure">
+      <caption translate="true">Configuration Procedure</caption>
+      <topicref type="topic" id="453727868128148" build="ALL" modified="2024-03-21T15:30:00.213Z" icon="0" href="Overview3">
+        <caption translate="true">Overview</caption>
+      </topicref>
+      <topicref type="topic" id="453726227257986" build="ALL" modified="2024-03-21T15:30:19.266Z" icon="0" href="Fixture-Clamp_Unclamp-Configur">
+        <caption translate="true">Fixture Clamp/Unclamp Configuration</caption>
+      </topicref>
+      <topicref type="topic" id="453726873713627" build="ALL" modified="2024-03-21T15:30:33.820Z" icon="0" href="Hydraulic-Line-Configuration">
+        <caption translate="true">Hydraulic Line Configuration</caption>
+      </topicref>
+      <topicref type="topic" id="45373576579950" build="ALL" modified="2024-03-21T15:30:50.094Z" icon="0" href="M-Code-Configuration">
+        <caption translate="true">M Code Configuration</caption>
+      </topicref>
+      <topicref type="topic" id="453726487097556" build="ALL" modified="2024-03-21T15:33:00.147Z" icon="0" href="Work-Load_Unload-Configuration">
+        <caption translate="true">Work Load/Unload Configuration</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453724227982696" build="ALL" modified="2024-03-21T15:06:46.787Z" icon="0" href="Auto-Greasing">
+      <caption translate="true">Auto Greasing</caption>
+      <topicref type="topic" id="453727788591572" build="ALL" modified="2024-03-21T15:33:23.425Z" icon="0" href="Overview4">
+        <caption translate="true">Overview</caption>
+      </topicref>
+      <topicref type="topic" id="453724876256366" build="ALL" modified="2024-03-21T15:33:33.531Z" icon="0" href="Auto-Greasing-Flow-Chart">
+        <caption translate="true">Auto Greasing Flow Chart</caption>
+      </topicref>
+      <topicref type="topic" id="45370567882390" build="ALL" modified="2024-03-21T15:33:46.390Z" icon="0" href="Auto-Grease-Maintenance-Screen">
+        <caption translate="true">Auto Grease Maintenance Screen</caption>
+      </topicref>
+      <topicref type="topic" id="453726449896487" build="ALL" modified="2024-03-21T15:34:00.116Z" icon="0" href="Auto-Greasing-Signal-List">
+        <caption translate="true">Auto Greasing Signal List</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="432975425740684" build="ALL" modified="2024-07-03T11:36:32.426Z" icon="0" href="1_1-Spindle-and-Feed-Axis-Oil-Circulation-Path">
+    <caption translate="true">Chapter 4 Spindle Head</caption>
+    <topicref type="topic" id="432947243406348" build="ALL" modified="2024-07-03T11:36:35.753Z" icon="0" href="1_Overview-of-Spindle-Oil-Temper">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453763860334463" build="ALL" modified="2024-03-25T14:01:02.040Z" icon="0" href="Piping-and-Wiring">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453766416925044" build="ALL" modified="2024-03-25T14:31:38.111Z" icon="0" href="Spindle-Mechanism">
+      <caption translate="true">Spindle Mechanism</caption>
+      <topicref type="topic" id="453764888790058" build="ALL" modified="2024-03-25T14:33:29.914Z" icon="0" href="Tool-Clamp_Unclamp">
+        <caption translate="true">Tool Clamp/Unclamp</caption>
+      </topicref>
+      <topicref type="topic" id="453765123112785" build="ALL" modified="2024-03-25T14:45:20.952Z" icon="0" href="Rotary-Union-Mechanism-(Option">
+        <caption translate="true">Rotary Union Mechanism (Option)</caption>
+      </topicref>
+      <topicref type="topic" id="453766392059283" build="ALL" modified="2024-03-25T14:55:45.691Z" icon="0" href="Through-Spindle-Coolant-(TSC--">
+        <caption translate="true">Through Spindle Coolant (TSC- Option)</caption>
+      </topicref>
+      <topicref type="topic" id="453764559762878" build="ALL" modified="2024-03-25T14:58:30.723Z" icon="0" href="Air-Functions">
+        <caption translate="true">Air Functions</caption>
+        <topicref type="topic" id="453768297796339" build="ALL" modified="2024-03-25T15:00:02.824Z" icon="0" href="Spindle-Taper-Cleaning">
+          <caption translate="true">Spindle Taper Cleaning</caption>
+        </topicref>
+        <topicref type="topic" id="453766648477515" build="ALL" modified="2024-03-25T15:03:07.126Z" icon="0" href="Air-Blow">
+          <caption translate="true">Air Blow</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453766875053567" build="ALL" modified="2024-03-25T15:39:16.356Z" icon="0" href="Through-Spindle-Coolant-Operat">
+        <caption translate="true">Through Spindle Coolant Operation Timing Chart</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453766410109390" build="ALL" modified="2024-04-18T12:03:03.379Z" icon="0" href="B---Feed-Axis">
+    <caption translate="true">Chapter 5 Feed Axis</caption>
+    <topicref type="topic" id="453765463927358" build="ALL" modified="2024-03-25T15:46:42.304Z" icon="0" href="Overview5">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453766225803913" build="ALL" modified="2024-03-25T15:48:55.839Z" icon="0" href="Component-Name2">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453768199064242" build="ALL" modified="2024-03-25T15:53:35.295Z" icon="0" href="Piping-and-Wiring2">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453766784430990" build="ALL" modified="2024-03-25T16:07:14.518Z" icon="0" href="Feed-Axis-Mechanism">
+      <caption translate="true">Feed Axis Mechanism</caption>
+      <topicref type="topic" id="453768456838243" build="ALL" modified="2024-03-25T16:35:48.208Z" icon="0" href="Feed-Axis-Drive">
+        <caption translate="true">Feed Axis Drive</caption>
+        <topicref type="topic" id="453765974025774" build="ALL" modified="2024-03-25T16:36:13.911Z" icon="0" href="Drive">
+          <caption translate="true">Drive</caption>
+        </topicref>
+        <topicref type="topic" id="453764875651104" build="ALL" modified="2024-03-25T16:38:19.081Z" icon="0" href="Axis-Configuration">
+          <caption translate="true">Axis Configuration</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453873344979718" build="ALL" modified="2024-04-05T08:45:42.786Z" icon="0" href="Axis-Stroke-Limits">
+        <caption translate="true">Axis Stroke Limits</caption>
+      </topicref>
+      <topicref type="topic" id="453874146614133" build="ALL" modified="2024-04-05T08:48:50.373Z" icon="0" href="Reference-Position-Return">
+        <caption translate="true">Reference Position Return</caption>
+      </topicref>
+      <topicref type="topic" id="453874222857307" build="ALL" modified="2024-04-05T08:53:05.519Z" icon="0" href="Axis-Ball-Screw-Core-Cooling">
+        <caption translate="true">Axis Ball Screw Core Cooling</caption>
+      </topicref>
+      <topicref type="topic" id="453873820264965" build="ALL" modified="2024-04-05T08:53:50.630Z" icon="0" href="Axis-Support-and-Guide">
+        <caption translate="true">Axis Support and Guide</caption>
+      </topicref>
+      <topicref type="topic" id="453874484960177" build="ALL" modified="2024-04-05T08:56:03.267Z" icon="0" href="Axes-Backlash">
+        <caption translate="true">Axes Backlash</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453875624634757" build="ALL" modified="2024-04-18T12:03:16.004Z" icon="0" href="C---Automatic-Tool-Changer">
+    <caption translate="true">Chapter 6 Automatic Tool Changer</caption>
+    <topicref type="topic" id="453875387380812" build="ALL" modified="2024-04-05T09:49:23.366Z" icon="0" href="Overview6">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453876110380918" build="ALL" modified="2024-04-05T09:51:18.609Z" icon="0" href="Component-Name3">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453874595440593" build="ALL" modified="2024-04-05T09:58:46.627Z" icon="0" href="Wiring">
+        <caption translate="true">Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453874052714828" build="ALL" modified="2024-04-05T10:01:00.171Z" icon="0" href="ATC-Magazine-Mechanism">
+      <caption translate="true">ATC Magazine Mechanism</caption>
+      <topicref type="topic" id="453876318914278" build="ALL" modified="2024-04-05T10:08:18.150Z" icon="0" href="Tool-Change-Operation">
+        <caption translate="true">Tool Change Operation</caption>
+      </topicref>
+      <topicref type="topic" id="453874690634291" build="ALL" modified="2024-04-05T10:17:07.132Z" icon="0" href="ATC-Shutter-Mechanism">
+        <caption translate="true">ATC Shutter Mechanism</caption>
+      </topicref>
+      <topicref type="topic" id="453876417061479" build="ALL" modified="2024-04-05T11:25:13.006Z" icon="0" href="Tool-Pot-Horizontal_Vertical-P">
+        <caption translate="true">Tool Pot Horizontal/Vertical Pneumatic Cylinder</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453873667639885" build="ALL" modified="2024-04-18T12:03:24.767Z" icon="0" href="D--Spindle-Cooler">
+    <caption translate="true">Chapter 7 Spindle Cooler</caption>
+    <topicref type="topic" id="4537265980218" build="ALL" modified="2024-04-05T11:32:05.244Z" icon="0" href="Overview7">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453875276440393" build="ALL" modified="2024-04-05T11:35:17.522Z" icon="0" href="Component-Name4">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453874196382324" build="ALL" modified="2024-04-05T11:37:45.910Z" icon="0" href="Piping-and-Wiring3">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453875699109743" build="ALL" modified="2024-04-05T11:44:16.109Z" icon="0" href="Spindle-Cooler-Unit">
+      <caption translate="true">Spindle Cooler Unit</caption>
+      <topicref type="topic" id="453875233705444" build="ALL" modified="2024-04-05T11:58:01.601Z" icon="0" href="Axis-Ball-Screw-Core-Cooling2">
+        <caption translate="true">Axis Ball Screw Core Cooling</caption>
+      </topicref>
+      <topicref type="topic" id="45388342435820" build="ALL" modified="2024-04-05T12:00:06.466Z" icon="0" href="Signal-Sequence">
+        <caption translate="true">Signal Sequence</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453873629862639" build="ALL" modified="2024-04-18T12:03:34.674Z" icon="0" href="E--Automatic-Grease-Supply-Uni">
+    <caption translate="true">Chapter 8 Automatic Grease Supply Unit</caption>
+    <topicref type="topic" id="453876171273602" build="ALL" modified="2024-04-05T12:20:40.806Z" icon="0" href="Overview8">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453877202426177" build="ALL" modified="2024-04-05T14:01:10.711Z" icon="0" href="Component-Name5">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453874952106624" build="ALL" modified="2024-04-05T14:06:25.815Z" icon="0" href="Piping-and-Wiring4">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453875953055343" build="ALL" modified="2024-04-05T14:40:07.777Z" icon="0" href="Automatic-Grease-Supply-Unit-M">
+      <caption translate="true">Automatic Grease Supply Unit Mechanism</caption>
+      <topicref type="topic" id="45389270552701" build="ALL" modified="2024-04-05T14:47:35.509Z" icon="0" href="Automatic-Grease-Circuit">
+        <caption translate="true">Automatic Grease Circuit</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453875267138378" build="ALL" modified="2024-04-18T12:03:43.893Z" icon="0" href="F1-Spindle-Hydraulic-Unit">
+    <caption translate="true">Chapter 9 Spindle Hydraulic Unit</caption>
+    <topicref type="topic" id="453877161681750" build="ALL" modified="2024-04-05T16:05:45.652Z" icon="0" href="Overview9">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453876122133325" build="ALL" modified="2024-04-05T16:07:27.910Z" icon="0" href="Component-Name6">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453875314444762" build="ALL" modified="2024-04-05T16:08:57.147Z" icon="0" href="Piping-and-Wiring5">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453878136528978" build="ALL" modified="2024-04-05T16:11:26.070Z" icon="0" href="Spindle-Hydraulic-Unit-Mechani">
+      <caption translate="true">Spindle Hydraulic Unit Mechanism</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453903524748167" build="ALL" modified="2024-04-18T12:03:52.113Z" icon="0" href="F2-Fixture-Hydraulic-Unit-(Opt">
+    <caption translate="true">Chapter 10 Fixture Hydraulic Unit (Option)</caption>
+    <topicref type="topic" id="453905709589073" build="ALL" modified="2024-04-08T08:40:26.733Z" icon="0" href="Overview10">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453905444487016" build="ALL" modified="2024-04-08T08:53:17.257Z" icon="0" href="Component-Name7">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453901688537269" build="ALL" modified="2024-04-08T08:58:54.858Z" icon="0" href="Piping-and-Wiring6">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453901991394373" build="ALL" modified="2024-04-08T09:01:29.565Z" icon="0" href="Fixture-Hydraulic-Unit-Mechani">
+      <caption translate="true">Fixture Hydraulic Unit Mechanism</caption>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453904250707775" build="ALL" modified="2024-04-18T12:04:00.232Z" icon="0" href="G-Pneumatic-System">
+    <caption translate="true">Chapter 11 Pneumatic System</caption>
+    <topicref type="topic" id="453904356632937" build="ALL" modified="2024-04-08T09:07:59.770Z" icon="0" href="Overview11">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453901846015183" build="ALL" modified="2024-04-08T09:12:00.867Z" icon="0" href="Pneumatic-System-1">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453902211609195" build="ALL" modified="2024-04-08T09:14:05.609Z" icon="0" href="Air-Unit-Mechanism">
+      <caption translate="true">Air Unit Mechanism</caption>
+      <topicref type="topic" id="453905506222579" build="ALL" modified="2024-04-08T09:21:44.689Z" icon="0" href="Main-Air-Unit">
+        <caption translate="true">Main Air Unit</caption>
+      </topicref>
+      <topicref type="topic" id="453904605270145" build="ALL" modified="2024-04-08T09:28:30.243Z" icon="0" href="Scale-Air-Unit">
+        <caption translate="true">Scale Air Unit</caption>
+      </topicref>
+      <topicref type="topic" id="454974068733168" build="ALL" modified="2024-07-24T13:54:35.734Z" icon="0" href="Pneumatic-Circuit-Diagram-10KSTD">
+        <caption translate="true">Pneumatic Circuit Diagram – 10K Machine and Options</caption>
+      </topicref>
+      <topicref type="topic" id="454976630565928" build="ALL" modified="2024-07-24T13:56:21.280Z" icon="0" href="Pneumatic-Circuit-Diagram-10K-CE">
+        <caption translate="true">Pneumatic Circuit Diagram – 10K CE Machine and Options</caption>
+      </topicref>
+      <topicref type="topic" id="454974928299214" build="ALL" modified="2024-07-24T13:57:02.715Z" icon="0" href="Pneumatic-Circuit-Diagram-14K-STD">
+        <caption translate="true">Pneumatic Circuit Diagram – 14K Machine and Options </caption>
+      </topicref>
+      <topicref type="topic" id="454977696104189" build="ALL" modified="2024-07-24T13:57:43.296Z" icon="0" href="Pneumatic-Circuit-Diagram-14K-CE">
+        <caption translate="true">Pneumatic Circuit Diagram – 14K CE Machine and Options </caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453904465151891" build="ALL" modified="2024-04-18T12:04:09.076Z" icon="0" href="H1-Chip-Disposal-and-Conveyor">
+    <caption translate="true">Chapter 12 Chip Disposal and Conveyor</caption>
+    <topicref type="topic" id="453905186275749" build="ALL" modified="2024-04-08T09:54:44.347Z" icon="0" href="Overview12">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="45390961690808" build="ALL" modified="2024-04-08T09:55:51.463Z" icon="0" href="Component-Name8">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="45392289866402" build="ALL" modified="2024-04-08T10:00:39.377Z" icon="0" href="Wiring2">
+        <caption translate="true">Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453904350597339" build="ALL" modified="2024-04-08T10:02:11.626Z" icon="0" href="Chip-Disposal-and-Conveyor-Mec">
+      <caption translate="true">Chip Disposal and Conveyor Mechanism</caption>
+      <topicref type="topic" id="453984251828407" build="ALL" modified="2024-04-16T13:52:30.588Z" icon="0" href="Flush-Coolant">
+        <caption translate="true">Flush Coolant</caption>
+      </topicref>
+      <topicref type="topic" id="453986361797898" build="ALL" modified="2024-04-16T13:54:45.555Z" icon="0" href="Lift-Up-Chip-Conveyor-(Option)">
+        <caption translate="true">Lift-Up Chip Conveyor (Option)</caption>
+      </topicref>
+      <topicref type="topic" id="453985602339748" build="ALL" modified="2024-04-16T13:56:13.009Z" icon="0" href="Drum-Unit">
+        <caption translate="true">Drum Unit</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453985007403542" build="ALL" modified="2024-04-18T12:04:16.539Z" icon="0" href="Cutting-Fluid-Supply-Unit-and-">
+    <caption translate="true">Chapter 13 Cutting Fluid Supply Unit and Tank</caption>
+    <topicref type="topic" id="45399073443670" build="ALL" modified="2024-04-16T14:12:34.531Z" icon="0" href="Overview13">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453987617942108" build="ALL" modified="2024-04-16T14:18:10.169Z" icon="0" href="Component-Name9">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453984233788038" build="ALL" modified="2024-04-16T14:26:49.644Z" icon="0" href="Piping-and-Wiring7">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453987914731347" build="ALL" modified="2024-04-16T14:29:29.965Z" icon="0" href="Cutting-Fluid-Supply-Unit-and2">
+      <caption translate="true">Cutting Fluid Supply Unit and Tank Mechanism</caption>
+      <topicref type="topic" id="453984627359079" build="ALL" modified="2024-04-16T14:34:19.486Z" icon="0" href="Saddle-Flush-Coolant-(Standard">
+        <caption translate="true">Saddle Flush Coolant (Standard Machine)</caption>
+      </topicref>
+      <topicref type="topic" id="453984627017218" build="ALL" modified="2024-04-16T14:37:44.650Z" icon="0" href="Nozzle-Coolant">
+        <caption translate="true">Nozzle Coolant</caption>
+      </topicref>
+      <topicref type="topic" id="453984749795334" build="ALL" modified="2024-04-16T14:38:51.057Z" icon="0" href="Backwash-Coolant">
+        <caption translate="true">Backwash Coolant</caption>
+      </topicref>
+      <topicref type="topic" id="453987240675432" build="ALL" modified="2024-04-16T14:40:32.573Z" icon="0" href="Through-Spindle-Coolant">
+        <caption translate="true">Through Spindle Coolant</caption>
+        <topicref type="topic" id="453986024498979" build="ALL" modified="2024-04-16T14:43:15.216Z" icon="0" href="Cleaning-of-2nd-Tank-3_0-MPa_7">
+          <caption translate="true">Cleaning of 2nd Tank 3.0 MPa/7.0 MPa TSC Coolant Y-strainer</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453988125081555" build="ALL" modified="2024-04-16T16:15:02.521Z" icon="0" href="Cyclone-Filter-(Option)">
+        <caption translate="true">Cyclone Filter (Option)</caption>
+      </topicref>
+      <topicref type="topic" id="453987462084489" build="ALL" modified="2024-04-16T16:16:13.768Z" icon="0" href="Coolant-Tank">
+        <caption translate="true">Coolant Tank</caption>
+        <topicref type="topic" id="453986358480099" build="ALL" modified="2024-04-16T16:17:37.943Z" icon="0" href="Proximity-Switch-LS1319-(Low-L">
+          <caption translate="true">Proximity Switch LS1319 (Low Level Detection)</caption>
+        </topicref>
+        <topicref type="topic" id="453987485523676" build="ALL" modified="2024-04-16T16:38:57.758Z" icon="0" href="Oil-Skimmer">
+          <caption translate="true">Oil Skimmer</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453987400370458" build="ALL" modified="2024-04-16T16:40:46.553Z" icon="0" href="Cutting-Fluid-Temperature-Cont">
+        <caption translate="true">Cutting Fluid Temperature Controller (Option)</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453993201149295" build="ALL" modified="2024-04-18T12:04:26.145Z" icon="0" href="I-Splash-Guard">
+    <caption translate="true">Chapter 14 Splash Guard</caption>
+    <topicref type="topic" id="453992832561993" build="ALL" modified="2024-04-17T08:06:58.173Z" icon="0" href="Overview14">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453992395872212" build="ALL" modified="2024-04-17T08:13:41.725Z" icon="0" href="Component-Name10">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453994371247095" build="ALL" modified="2024-04-17T08:15:00.548Z" icon="0" href="Wiring3">
+        <caption translate="true">Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453993834632635" build="ALL" modified="2024-04-17T08:15:43.358Z" icon="0" href="Axis-Telescopic-Covers">
+      <caption translate="true">Axis Telescopic Covers</caption>
+    </topicref>
+    <topicref type="topic" id="45398025319526" build="ALL" modified="2024-04-17T08:18:08.608Z" icon="0" href="Machine-External-Covers">
+      <caption translate="true">Machine External Covers</caption>
+    </topicref>
+    <topicref type="topic" id="453994548481798" build="ALL" modified="2024-04-17T09:23:37.789Z" icon="0" href="Safety-Devices">
+      <caption translate="true">Safety Devices</caption>
+      <topicref type="topic" id="453994293351197" build="ALL" modified="2024-04-17T09:38:36.000Z" icon="0" href="Splash-Guard-Door-Lock-Devices">
+        <caption translate="true">Splash Guard Door Lock Devices</caption>
+        <topicref type="topic" id="453992083016595" build="ALL" modified="2024-04-17T09:39:00.286Z" icon="0" href="Standard-Splash-Guard-with-Man">
+          <caption translate="true">Standard Splash Guard with Manual Operator Door</caption>
+        </topicref>
+        <topicref type="topic" id="453993598354356" build="ALL" modified="2024-04-17T10:50:20.963Z" icon="0" href="Standard-Splash-Guard-with-Aut">
+          <caption translate="true">Standard Splash Guard with Auto Operator Door</caption>
+        </topicref>
+      </topicref>
+      <topicref type="topic" id="453993347316253" build="ALL" modified="2024-04-17T11:02:51.915Z" icon="0" href="Manual-Override">
+        <caption translate="true">Manual Override</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453996849815679" build="ALL" modified="2024-04-17T11:20:10.667Z" icon="0" href="Lighting-Device">
+      <caption translate="true">Lighting Device</caption>
+      <topicref type="topic" id="453996208621929" build="ALL" modified="2024-04-17T11:21:44.478Z" icon="0" href="Overview15">
+        <caption translate="true">Overview</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453996377294803" build="ALL" modified="2024-04-17T11:28:41.415Z" icon="0" href="Signal-Lamp-(Warning-Lamp)">
+      <caption translate="true">Signal Lamp (Warning Lamp)</caption>
+      <topicref type="topic" id="453995647202402" build="ALL" modified="2024-04-17T11:29:12.388Z" icon="0" href="Overview16">
+        <caption translate="true">Overview</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453993294815967" build="ALL" modified="2024-04-18T12:04:34.651Z" icon="0" href="J-Mist-Collector-(Option)">
+    <caption translate="true">Chapter 15 Mist Collector (Option)</caption>
+    <topicref type="topic" id="453993281501992" build="ALL" modified="2024-04-17T11:42:05.296Z" icon="0" href="Overview17">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="45401257599507" build="ALL" modified="2024-04-17T13:30:37.516Z" icon="0" href="Component-Name11">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453996434760878" build="ALL" modified="2024-04-17T13:31:39.685Z" icon="0" href="Piping-and-Wiring8">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453996900988208" build="ALL" modified="2024-04-17T13:32:44.010Z" icon="0" href="Mist-Collector-Mechanism">
+      <caption translate="true">Mist Collector Mechanism</caption>
+      <topicref type="topic" id="45401308393609" build="ALL" modified="2024-04-17T13:35:43.663Z" icon="0" href="Mist-Collector-Start-and-Stop-">
+        <caption translate="true">Mist Collector Start and Stop Operation</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453997655083843" build="ALL" modified="2024-04-18T12:04:41.727Z" icon="0" href="K-Air-Dryer-(Option)">
+    <caption translate="true">Chapter 16 Air Dryer (Option)</caption>
+    <topicref type="topic" id="453997782318887" build="ALL" modified="2024-04-17T13:39:02.403Z" icon="0" href="Overview18">
+      <caption translate="true">Overview</caption>
+      <topicref type="topic" id="453996623194106" build="ALL" modified="2024-04-17T13:43:33.898Z" icon="0" href="Component-Name12">
+        <caption translate="true">Component Name</caption>
+      </topicref>
+      <topicref type="topic" id="453997820921418" build="ALL" modified="2024-04-17T14:04:29.795Z" icon="0" href="Piping-and-Wiring9">
+        <caption translate="true">Piping and Wiring</caption>
+      </topicref>
+    </topicref>
+    <topicref type="topic" id="453996058144677" build="ALL" modified="2024-04-17T14:12:47.273Z" icon="0" href="Air-Dryer-Mechanism">
+      <caption translate="true">Air Dryer Mechanism</caption>
+      <topicref type="topic" id="453997734529689" build="ALL" modified="2024-04-17T14:13:54.663Z" icon="0" href="Compressed-Air-and-Refrigerant">
+        <caption translate="true">Compressed Air and Refrigerant Circuit</caption>
+      </topicref>
+      <topicref type="topic" id="453995568527021" build="ALL" modified="2024-04-17T14:21:40.084Z" icon="0" href="Electrical-Circuit">
+        <caption translate="true">Electrical Circuit</caption>
+      </topicref>
+    </topicref>
+  </topicref>
+  <topicref type="topic" id="453998265020141" build="ALL" modified="2024-04-18T12:07:02.037Z" icon="0" href="Chapter-5-Signal-Tables">
+    <caption translate="true">Chapter 17 Signal Tables</caption>
+    <topicref type="topic" id="453994804682372" build="ALL" modified="2024-04-17T09:33:39.021Z" icon="0" href="1-Input-Signal-List">
+      <caption translate="true">Input Signal List</caption>
+    </topicref>
+    <topicref type="topic" id="453993493733177" build="ALL" modified="2024-04-17T09:34:41.927Z" icon="0" href="2-Output-Signal-List">
+      <caption translate="true">Output Signal List</caption>
+    </topicref>
+  </topicref>
+</map>
