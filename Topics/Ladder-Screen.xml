@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Ladder Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Ladder Screen</para>
+    </header>
+    <para styleclass="Normal">W<text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">hen performing maintenance on the machine, the running status of the ladder program can be checked on the Ladder screen.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:left; text-indent:14px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:48px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">Display Procedure</text></para>
+    <list id="2" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[SYSTEM]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> key on the MDI panel.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[+]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> soft key on the screen until the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[PMC LADDER]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> soft key is displayed.</text></li>
+      <li styleclass="" style="text-align:justify; text-indent:-27px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:89px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:200px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Press the </text><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[PMC LADDER]</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> soft key to display the Ladder screen.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.2.png" scale="60.00%" width="407" height="311" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER2=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Ladder Screen</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

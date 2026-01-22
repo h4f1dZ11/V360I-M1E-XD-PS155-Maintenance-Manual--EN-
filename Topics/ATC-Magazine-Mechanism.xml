@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ATC Magazine Mechanism</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">ATC Magazine Mechanism</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2 ATC Magazine Mechanism flowchart.png" scale="60.00%" width="580" height="485" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">Machine Input / Output Signal Table</text></para>
+    <para styleclass="Normal"><table rowcount="7" colcount="3" style="width:auto; cell-padding:7px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:95px; height:20px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Signal Name</text></para>
+        </td>
+        <td style="width:95px; height:20px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Address</text></para>
+        </td>
+        <td style="width:398px; height:20px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Description</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS00</text></para>
+        </td>
+        <td style="vertical-align:top; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0010.0</text></para>
+        </td>
+        <td style="vertical-align:top; width:398px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">TOOL CLAMP</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS01</text></para>
+        </td>
+        <td style="vertical-align:top; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0010.1</text></para>
+        </td>
+        <td style="vertical-align:top; width:398px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">TOOL UNCLAMP</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS601</text></para>
+        </td>
+        <td style="vertical-align:top; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0012.2</text></para>
+        </td>
+        <td style="vertical-align:top; width:398px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SPINDLE TOOL SEATING</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS602</text></para>
+        </td>
+        <td style="vertical-align:top; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0012.3</text></para>
+        </td>
+        <td style="vertical-align:top; width:398px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SPINDLE TOOL CONFIRM</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL01A</text></para>
+        </td>
+        <td style="vertical-align:top; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Y0004.0</text></para>
+        </td>
+        <td style="vertical-align:top; width:398px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SPINDLE TOOL CLAMP</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL01B</text></para>
+        </td>
+        <td style="vertical-align:top; width:95px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Y0004.1</text></para>
+        </td>
+        <td style="vertical-align:top; width:398px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SPINDLE TOOL UNCLAMP</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

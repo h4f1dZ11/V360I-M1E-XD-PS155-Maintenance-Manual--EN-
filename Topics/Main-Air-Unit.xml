@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Main Air Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Main Air Unit</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The main air unit regulates air supply/cut-off to maintain the air pressure at a constant level (0.5MPa).</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">When the pressure switch LS905 (main air pressure switch) detects that the air pressure drops below 0.5MPa, an alarm is triggered and the machine enters the feed hold condition.</para>
+    <para styleclass="Normal">Please note that if the compressed air supplied to the machine does not satisfy the necessary conditions (compressed air free from dust, moisture or oil and the grade is ISO 2.5.2 as stipulated in JIS B 8392-1 [ISO 8573-1]), it may cause a malfunction of the pneumatic system. Contaminated compressed air will severely damage the major components of the machine, such as the spindle and scale units.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1_Chp 11.png" scale="60.00%" width="535" height="396" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER11=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Main Air Unit</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

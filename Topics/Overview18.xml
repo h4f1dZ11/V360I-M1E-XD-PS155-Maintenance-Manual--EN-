@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Overview</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The air dryer is used to remove moisture, hot and humid air from the machine. Thus cooling the hot and humid air from the air dyer inside. (Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="Air-Dryer-Mechanism" styleclass="" style="font-family:Arial; font-size:11pt; color:#0000ff;">2 Air Dryer Mechanism</link><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">)</text></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:top; width:589px; border-left:none;">
+          <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">T</text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">he air dryer uses fluorocarbon (HFC) as refrigerant.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">It is strictly forbidden to emit fluorocarbon into the atmosphere. Before you repair the refrigerant circuit, you should collect the refrigerant with proper evacuation system. The collected refrigerant should be properly recycled by qualified agency. Only personnel with proper credential are allowed to handle refrigerant.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">O</text><text styleclass="" style="font-family:Arial; font-size:10pt; font-weight:bold; color:#000000;">nly properly trained and qualified personnel are allowed to remove the cover panel of the equipment.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 1.1 Air Dryer General View_edit.png" scale="22.00%" width="616" height="423" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER16=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">General View</text></para>
+  </body>
+</topic>

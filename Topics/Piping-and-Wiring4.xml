@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Piping and Wiring</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Piping and Wiring</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 1.3 Grease Piping_edit.png" scale="16.00%" width="708" height="332" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Piping</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E" style="margin-bottom:10px;"><image src="Fig 1.4 Grease Piping Route_edit.png" scale="31.00%" width="613" height="750" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Piping Route</text></para>
+    <para styleclass="Figure E"><image src="Fig 1.5 Z-Axis Grease Piping Route_edit.png" scale="29.00%" width="632" height="647" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Z-Axis </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Piping Route </text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.6 Z-Axis Grease Distributing Valve_edit.png" scale="37.00%" width="576" height="494" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Z-Axis </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Distributing Valve</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.7 Y-Axis Grease Piping Route.png" scale="30.00%" width="685" height="527" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Y-Axis </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Piping Route</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.8 Y-Axis Grease Distributing Valve_edit.png" scale="16.00%" width="605" height="485" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Y-Axis </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Distributing Valve</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 1.9 X-Axis Grease Piping Route_edit.png" scale="25.00%" width="548" height="618" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; X-Axis </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Piping Route</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E" style="margin-bottom:10px;"><image src="Fig 1.10 X-Axis Grease Distributing Valve_edit.png" scale="20.00%" width="614" height="477" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; X-Axis </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Grease Distributing Valve</text></para>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E" style="margin-bottom:5px;"><image src="Fig 1.11 Auto Grease Wiring Route.png" scale="16.00%" width="581" height="525" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Wiring Route</text></para>
+  </body>
+</topic>

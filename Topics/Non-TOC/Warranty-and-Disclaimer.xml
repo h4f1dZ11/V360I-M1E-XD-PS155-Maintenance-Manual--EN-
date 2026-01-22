@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>Warranty and Disclaimer</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;">Warranty and Disclaimers</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px;"><text style="font-size:11pt;">The information contained in the purchase agreement exchanged with the customer serves as the warranty with Makino.</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px;"><text style="font-size:11pt;">For details about the warranty, see the purchase agreement.</text></para>
+  </body>
+</topic>

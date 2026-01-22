@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Saddle Flush Coolant (Standard Machine)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Saddle Flush Coolant (Standard Machine)</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The saddle flush coolant function discharges cutting fluid from the right and left of flushing nozzle to transfer chips from the telescopic cover to the coolant tank.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The flush coolant is discharged and stopped when the main coolant pump (MS2) operation is started and stopped.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.2 Flush Coolant (STD MC)_edit.png" scale="31.00%" width="555" height="690" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Flush Coolant (Standard Machine)</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

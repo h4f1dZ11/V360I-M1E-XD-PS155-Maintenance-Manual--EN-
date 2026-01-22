@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.1 Operators Checks</title>
+  <keywords>
+    <keyword>Operators Checks</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading3">Operators Checks</para>
+    </header>
+    <list id="2" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt; background-color:#ffffff;">Only qualified personnel who have adequate mechanical and technical knowledge are allowed to operate and maintain the machine.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt; background-color:#ffffff;">Only qualified electrical engineers may perform electrical work.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt; background-color:#ffffff;">Only qualified personnel may use a crane or forklift.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt; background-color:#ffffff;">Wear suitable work clothes whenever operating or maintaining the machine. Do not operate the machine while wearing loose-fitting clothes, a necktie, jewelry, or any other clothing or objects which may become entangled with the moving parts of the machine.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt; background-color:#ffffff;">Tie up long hair, wear a hat.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt; background-color:#ffffff;">Wear safety glasses, safety shoes, safety helmet, and safety gloves as needed.</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:19px; margin-left:47px;"><image src="Operators check PPE.ipp" scale="12.00%" width="553" height="129" styleclass="Image Caption"></image></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt;">Protective gear should be worn to protect hearing when excessive noise may be granted during operation or maintenance.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt;">Never operate any machinery while under the influence of alcohol or drugs.</text></li>
+      <li styleclass="Normal" style="text-align:justify; text-indent:11px; margin-bottom:8px; margin-left:36px;"><text style="font-size:11pt;">The operator should be in proper physical condition. If the operator suffers from a condition that impairs judgement, it may result in serious injury or death.</text></li>
+    </list>
+  </body>
+</topic>

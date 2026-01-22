@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.6 Implementing Lock-out and Tag-out</title>
+  <keywords>
+    <keyword>Implementing Lock-out and Tag-out</keyword>
+  </keywords>
+  <body>
+    <header>
+      <para styleclass="Heading3"><text style="font-weight:bold;">Implementing Lock-out and Tag-out</text></para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Lock-out consists of shutting down the power source to the machine or devices and locking it.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-65px; margin-top:11px; margin-right:0px; margin-bottom:11px; margin-left:91px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:714px right ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Example: Set the main power switch to the &quot;OFF&quot; position and secure it using a padlock or</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000; letter-spacing:2px;">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">a lockout device such as a cover.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Tag-out consists of placing a warning tag to prevent anyone from turning ON the power supply.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:-65px; margin-top:11px; margin-right:0px; margin-bottom:0px; margin-left:91px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Example: Place a &quot;Do Not Operate&quot; or &quot;Under Maintenance&quot; sign with the operator&apos;s name and department and indicating that machine operation is prohibited on the main power switch and main operation panel.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Lock-out/tag-out should be performed to prevent inadvertent operation and ensure operator safety.</text></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:justify; text-indent:-11px; margin-top:11px; margin-right:68px; margin-bottom:0px; margin-left:41px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:justify; text-indent:-11px; margin-top:11px; margin-right:68px; margin-bottom:0px; margin-left:41px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Performing lock-out/tag-out alone does not completely ensure operator safety. The operator must read and thoroughly understand the work procedures and safety precautions, and always be aware of potential hazards.</text></li>
+    </list>
+    <para styleclass="Normal" style="margin-top:8px; line-height:1.18;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Each operator should perform lock-out or tag-out by himself or herself. Perform this procedure before starting the work, and release the lock and remove warning tag yourself after finishing work. Never release a lock and remove a sign without confirming with the operator or without the presence of the operator himself or herself.</text></para>
+    <list id="3" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-top:11px; margin-left:30px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-top:11px; margin-left:30px;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Be sure to clearly define and implement the lock-out and tag-out procedures of your company.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+    <para styleclass="Normal" style="text-align:center;"><text styleclass="Image Caption">&#32;</text><image src="Fig 1.1 Implementing Lock-out &amp; Tag-out_edit.png" scale="54.00%" width="395" height="652" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER1%&gt;.&lt;%HMFIGURECOUNTER%&gt; Implementing Lock-out &amp; Tag-out</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

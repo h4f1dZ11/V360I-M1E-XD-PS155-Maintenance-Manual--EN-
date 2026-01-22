@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Air Blow</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Air Blow</para>
+    </header>
+    <para styleclass="Normal">The air blow function supplies air to the tip of the spindle in order to prevent chips from adhering to the tip of the spindle during workpiece machining.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.4.2 Air Blow flowchart.png" scale="55.00%" width="424" height="222" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.6.png" scale="60.00%" width="295" height="323" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; 14k </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Spindle Taper Cleaning Air</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><image src="Fig 2.7.png" scale="55.00%" width="464" height="461" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">10k Spindle Taper Cleaning Air</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

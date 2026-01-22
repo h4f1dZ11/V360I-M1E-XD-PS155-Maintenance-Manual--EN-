@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Component Name</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Component Name</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Fig 1.1 Splash Guard Component General View_edit.png" scale="15.00%" width="501" height="494" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER14=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">General View</text></para>
+  </body>
+</topic>

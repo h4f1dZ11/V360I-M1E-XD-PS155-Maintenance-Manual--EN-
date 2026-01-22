@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Axis Ball Screw Core Cooling</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Axis Ball Screw Core Cooling</para>
+    </header>
+    <para styleclass="Normal">The X, Y, Z-axis ball screws are cooled by coolant from spindle cooler to minimize the axis thermal expansion. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="D--Spindle-Cooler" style="color:#0000ff;">Chapter 7 Spindle Cooler</link>).</para>
+  </body>
+</topic>

@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Drum Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Drum Unit</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The drum unit filters the cutting fluid and transfer it into the dirty tank. Filters are mounted around the drum unit. Chips caught in the filters are removed by the flush coolant (backwash) from the filter cleaning nozzles located in the drum unit.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">For details of backwash coolant of the drum unit (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="Backwash-Coolant" style="color:#0000ff;">2.3 Backwash Coolant</link>).</para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.3 Drum Unit_edit.png" scale="17.00%" width="617" height="386" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER12=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Drum Unit</text></para>
+  </body>
+</topic>

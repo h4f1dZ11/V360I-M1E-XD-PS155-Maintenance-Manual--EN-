@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Overview</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">The transfer axes in X/Y/Z coordinates are called feed axes. Accurate control of these three axes ensures high machining accuracy. A feed axis consists of the following main components and parts.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;">Linear Motion Guide</li>
+      <li styleclass="Normal" style="line-height:1.50;">Ball Screw</li>
+      <li styleclass="Normal" style="line-height:1.50;">Servomotor</li>
+      <li styleclass="Normal" style="line-height:1.50;">Feedback Scale Unit (Option)</li>
+    </list>
+  </body>
+</topic>

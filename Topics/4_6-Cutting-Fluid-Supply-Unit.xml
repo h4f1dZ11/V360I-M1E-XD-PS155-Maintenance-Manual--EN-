@@ -1,0 +1,140 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.6 Cutting Fluid Supply Unit/Chip Disposal Device/Cutting Fluid Temperature Controller/Dust Collector (Graphite Specifications)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;">Cutting Fluid Supply Unit/Chip Disposal Device/Cutting Fluid Temperature Controller/Dust Collector (Graphite Specifications)</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="16" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:419px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Action/Situation</para>
+        </td>
+        <td style="width:237px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Result</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Working without performing lock-out and tag-out</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:6px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Injury or death, damage to the machine</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:56px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:7px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Inserting hands or feet into conveyor or tank without turning OFF the power</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:56px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:6px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Serious injury due to body part becoming entangled, or cuts to hands and feet</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Touching part or component immediately after operation</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Burns</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Operator touching moving parts when chip discharge outlet cover is removed</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:40px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:6px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Serious injury due to body part becoming entangled</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Stepping on a tank that is not fixed</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fall, bone fracture, injury</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Operating with low levels of cutting fluid</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fire, damage to the machine</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Touching cutting fluid or chemical additives</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Skin irritation</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Touching chips</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cuts, injuries, burns to hands</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Replacing the filter without prior cleaning</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cuts, injuries to hands</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Inhaling large quantities of cutting fluid mist</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Respiratory problems</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Mixing different brands of oils</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Breakdown of the machine</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Failing to properly clean or collect flammable cutting chips or sludge</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Mixing cutting chips made from different materials</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Fire</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Performing operation without wearing protective gloves</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Cuts, injuries to hands</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:419px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Breathing in dust particles from machining</text></para>
+        </td>
+        <td style="vertical-align:top; width:237px; height:24px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Respiratory problems</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

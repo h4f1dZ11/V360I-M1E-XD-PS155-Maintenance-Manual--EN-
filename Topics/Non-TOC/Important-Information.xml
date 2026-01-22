@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>Important Information</title>
+  <body>
+    <header>
+      <para styleclass="Heading1"><text style="font-family:Arial; font-style:normal; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">Important Information</text></para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px; margin-bottom:11px;"><text style="font-size:11pt;">General</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px; font-family:Symbol; font-size:8pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">Do not attempt to modify the machine.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">Operation, maintenance, and inspection of this machine must be performed by staffs who have received technical training for the machine, training in machine hazards and their prevention, and safety training.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">Observe the laws, regulations, and other rules of the relevant national and local administrative agencies.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px;"><text style="font-size:11pt;">This machine, including technical data and software, may be subjected to local and international laws governing trade and import/export.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:38px;"><text style="font-size:11pt;">Prior to any resale, transfer or re-export of controlled items, contact Makino to obtain any required authorization or approval.</text></para>
+    <list id="0" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px; font-family:Symbol; font-size:8pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">The specifications and design are subject to change without prior notice.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:11px;"><text style="font-size:11pt;">This manual</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px; font-family:Symbol; font-size:8pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">This manual is provided to ensure that the customer understands the correct operating procedures and uses this machine safely and efficiently.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">This manual was prepared for usage by experienced operators. For this reason, it does not include safety precautions for operators who do not have mechanical or technical knowledge of machine operation, programming, and maintenance.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">If the machine is operated by persons who are not native speakers of the language in this manual, the customer must ensure that the operators receive complete safety training. Also, warning labels must be affixed in a language that the operators can understand.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">The copyright for the entire content of this manual belongs to MAKINO ASIA PTE LTD. The copying, reproduction, or transfer of this manual, in whole or in part, without the express written permission of MAKINO ASIA PTE LTD, is strictly prohibited.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">Illustrations and other details may differ from the actual machine due to the selected options, modified specifications, or other reasons.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-bottom:11px; margin-left:26px;"><text style="font-size:11pt;">Store the manuals needed for operation, maintenance, and inspection of this machine in a location where they can be easily accessed by the operator.</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px;"><text style="font-size:11pt;">Be sure to perform periodic inspection and maintenance of the machine according to the periodic maintenance manual or the legend plate to prevent breakdown of the machine.</text></li>
+    </list>
+    <para styleclass="Normal" style="text-align:justify; margin-bottom:11px; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Spindle Cooler Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Spindle Cooler Unit</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Radiator fan cooling concept with water base coolant is used for spindle cooling. The fan draws in cool and exhaust hot air.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Pump and fan are continuously On with machine turned On.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 2.1_Chp 7.png" scale="63.00%" width="569" height="347" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER7=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Spindle Cooler Circuit</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

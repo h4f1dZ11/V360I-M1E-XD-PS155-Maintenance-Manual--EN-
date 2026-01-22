@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>M530/M531</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">M530/M531</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">M530/M531 sequence allows configuration of the same 4 hydraulic lines and 2 external inputs (sensor) in a sequence up to 3 steps M code finish conditions is not mentioned after the M code is completed.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Each M code has 3 steps that can be processed when it is triggered. The specification of each step can be customized.</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="3" colcount="2" style="width:auto; cell-padding:3px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:181px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Operation</text></para>
+        </td>
+        <td style="width:85px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No. of Steps</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:181px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M530</text></para>
+        </td>
+        <td style="width:85px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:181px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M531</text></para>
+        </td>
+        <td style="width:85px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:3px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">There is no default setting for M codes.</text></para>
+  </body>
+</topic>

@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Axis Configuration</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Axis Configuration</para>
+    </header>
+    <para styleclass="Normal">Ball screw is driven by an AC servomotor connected with a motor coupling. The ball screw is rotated by the servomotor and supported by the support bearings (one end fixed and the other end supported). The diagram below shows the axis drive mechanism (configuration).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Servomotor</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:10px;">AC servomotors with built-in absolute type pulse coders drive the feed axes. The Z-axis (gravity axis) servomotor is equipped with a brake. The brake is applied in the following conditions:</para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;">When the power is turned Off (brake can be released by turning the control power On again).</li>
+      <li styleclass="Normal" style="line-height:1.50;">When the Emergency Stop switch is pressed.</li>
+      <li styleclass="Normal" style="line-height:1.50;">When the servo amplifier is in Servo Ready Off status.</li>
+      <li styleclass="Normal" style="line-height:1.50;">When a servo alarm is triggered.</li>
+    </list>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Figure 2.1 Axis Configuration 1_edit.png" scale="15.00%" width="663" height="445" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Axis Configuration 1</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:5px;"><image src="Fig 2.2 Z-Axis Configuration_edit.png" scale="13.00%" width="358" height="713" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Axis Configuration 2</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text style="font-size:12pt; font-weight:bold;">Servomotor Coupling</text></para>
+    <para styleclass="Normal">The motor shaft and the ball screw are connected by a motor coupling. The coupling consists of a coupling flange and flat spring. The coupling flange is deformed when the clamping screws are tightened and the motor shaft and ball screw are connected by means of frictional force.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 2.3_Chp 5.png" scale="65.00%" width="480" height="281" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; Servomotor</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;"> Configuration</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Normal" style="margin-bottom:10px;"><text style="font-weight:bold;">Clamp Bolt Tightening Torque of Miki Pulley Coupling (Option)</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="4" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Axis</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Model</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Clamp Bolt Size</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Torque (Nm)</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">X-Axis</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">SFC-080SA2-35B-35B</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">M8</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">30</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y-Axis</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">SFC-080SA2-35B-35B</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">M8</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">30</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Z-Axis</text></para>
+        </td>
+        <td style="width:40%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">SFC-080SA2-35B-35B</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">M8</text></para>
+        </td>
+        <td style="width:20%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">30</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Figure E" style="text-align:left; margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

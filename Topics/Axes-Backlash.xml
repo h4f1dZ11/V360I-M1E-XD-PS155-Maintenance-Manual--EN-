@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Axes Backlash</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Axes Backlash</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:7px;">Backlash is a term used to refer to the amount (distance) of motion “lost” by an axis during a change of direction.</para>
+    <para styleclass="Normal" style="margin-bottom:7px;"><text style="font-weight:bold;">Backlash Compensation Function</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">Backlash Compensation function allows the mechanical backlash to be corrected electronically.</li>
+      <li styleclass="Normal" style="margin-bottom:7px;">The backlash compensation value is set separately for cutting feed and rapid traverse in NC backlash parameter No.1851 &amp; No.1852 respectively.</li>
+    </list>
+  </body>
+</topic>

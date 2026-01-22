@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Oil Skimmer</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Oil Skimmer</para>
+    </header>
+    <para styleclass="Normal">Cutting fluid and discharged oil from the bed and the spindle head unit that flow into the oil pan are separated to cutting fluid and floated oil. The belt conveyor skims the cutting fluid and lifts up the floated oil from the tank. The cutting fluid is returned to the coolant tank and the floated oil is transferred to the waste oil tank. The oil in the waste oil tank must be disposed of regularly.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.10_Chp 13.png" scale="62.00%" width="440" height="401" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Oil Skimmer</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

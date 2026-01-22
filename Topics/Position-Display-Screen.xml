@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Position Display Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Position Display Screen</para>
+    </header>
+    <para styleclass="Normal">T<text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">he screens listed below can be displayed on the Position Display screen by pressing the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[POS]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> key on the MDI panel. The selection buttons (soft keys) for each screen are described below.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.1 Position Display Screen_1.png" scale="30.00%" width="521" height="126" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="7" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">No.</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">Button</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">Description</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">1</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">ABSOLUTE</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;">S<text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">elects the absolute coordinate display screen.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">2</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">RELATIVE</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;">S<text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">elects the relative coordinate display screen.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">3</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">ALL</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;">S<text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">elects the overall coordinate display screen.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">4</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">HANDLE</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;">S<text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">elects the operation screen for manual handle interruption operation.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">6</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">MONITOR</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;">S<text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">elects the screen for displaying the servo axis load meter and serial spindle load meter.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:10%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">5,10</para>
+        </td>
+        <td style="width:25%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;">(OPRT)</para>
+        </td>
+        <td style="width:65%; height:25px;">
+          <para styleclass="Normal" style="margin-right:2px; margin-left:2px;">O<text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">peration selection key.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+    <para styleclass="Normal"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Transition sequence after pressing the </text><text styleclass style="font-family:Arial; font-size:11pt; font-weight:bold; color:#000000;">[POS]</text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;"> key.</text></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.1 Position Display Screen_2.png" scale="30.00%" width="521" height="738" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

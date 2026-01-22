@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Through Spindle Coolant (TSC- Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Through Spindle Coolant (TSC- Option)</para>
+    </header>
+    <para styleclass="Normal">Coolant is supplied to the end of the spindle (tool) in order to facilitate the smooth machining of workpiece.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">When through spindle coolant function is being used, the piston is moved forward by the pressure of the coolant and the pair of seal rings (rotating ring and fixed ring) come into contact. Coolant is then supplied to the tip of the spindle (tool).</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="2.3 TSC (Option)_Flowchart.png" scale="55.00%" width="442" height="222" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="margin-bottom:5px;"><text style="font-size:10pt;">-NOTE-</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">A small amount of coolant seeps out from the two seal rings contact surfaces in order to lubricate the rings. This is a normal function.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 2.4 TSC (Option).png" scale="60.00%" width="372" height="349" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Through Spindle Coolant (Option)</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

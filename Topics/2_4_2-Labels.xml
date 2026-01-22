@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.4.2 Labels</title>
+  <body>
+    <header>
+      <para styleclass="Heading4" style="page-break-before:always;">Labels</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-top:11px;"><image src="Labels.png" scale="30.00%" width="263" height="513" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:11px;"></para>
+    <para styleclass="Notes">-NOTES-</para>
+    <list id="2" type="ol" listtype="decimal" formatstring="%0:s" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">Locations and types of labels differ depending on the machine type or specifications (the above diagram is an example) and subject to revision and change.</li>
+    </list>
+    <list id="3" type="ol" listtype="decimal" formatstring="%0:s" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">Confirm the Warning labels on the actual machine.</li>
+    </list>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

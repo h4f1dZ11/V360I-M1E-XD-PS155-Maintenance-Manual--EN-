@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Axis Stroke Limits</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Axis Stroke Limits</para>
+    </header>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-weight:bold;">Axis Reference Positions</text></para>
+    <para styleclass="Normal" style="line-height:1.50;"><text style="font-weight:bold;">Over Travel</text></para>
+    <para styleclass="Normal" style="line-height:1.50;">The stroke for each axis is limited by an NC software limit (Soft OT1).</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="line-height:1.50; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="line-height:1.50;"><text style="font-weight:bold;">Soft OT1</text></li>
+    </list>
+    <para styleclass="Normal">If a command is sent for an axis beyond its stroke limit, the NC unit stops movement of the axis. This condition triggers an alarm but does NOT cause an Emergency Stop.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Fig 2.4 Z-Axis Stroke Limits_edit.png" scale="12.00%" width="298" height="319" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Z-Axis Stroke Limits</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:5px;"><image src="Fig 2.4 Y-Axis Stroke Limits_edit.png" scale="12.00%" width="296" height="314" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Y-Axis Stroke Limits</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:5px;"><image src="Fig 2.5 X-Stroke Limits_edit.png" scale="12.00%" width="439" height="308" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">X-Axis Stroke Limits</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

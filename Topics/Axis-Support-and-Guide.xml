@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Axis Support and Guide</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Axis Support and Guide</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:7px;">Each axis is guided and supported by two linear motion guides. One of the linear motion guides is a reference rail and the other is a driven rail. (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="Fig2.7" style="color:#0000ff;">Figure 2.7</link>)</para>
+    <list id="12" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">Linear Motion Guides </li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px;">Linear motion guides are composed of carriages and rails. Linear motion guides are adjusted along the rail mounting shoulder using the parallel pins and are secured by mounting screws.</para>
+    <list id="13" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">Carriages</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px;">The X-saddle, Y-cross slide and Z-spindle ram are mounted to these carriages.</para>
+    <list id="14" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">Rails</li>
+    </list>
+    <para styleclass="Normal">For each of the axis two linear guide rails are used.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Fig 2.7 Axis Support and Guide_edit.png" scale="33.00%" width="604" height="691" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><anchor id="Fig2.7" styleclass="Normal" style="font-size:11pt;"></anchor><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER5=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Axis Support and Guide</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Reference Position Return</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Reference Position Return</para>
+    </header>
+    <para styleclass="Normal">An AC servomotor with an absolute type pulse coder is used as the drive motor. When the motor does not have a scale unit, the position is constantly stored by an absolute pulse coder and when the motor has a scale unit, the position is constantly stored by the absolute scale unit. Therefore, reference position return is not necessary when the main power supply is turned On or after recovering from the Emergency Stop condition. However, reference position return is required in the following cases.</para>
+    <para styleclass="Normal"></para>
+    <list id="8" type="ol" listtype="decimal" formatstring="%0:s " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">After replacing motor signal wire or battery cable or battery for pulse coder.</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Perform reference position return for each axis in order to store the reference position in the machine using the following procedure:</para>
+    <list id="9" type="ol" listtype="decimal" formatstring="%0:s)" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:7px; margin-left:19px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Move the X-axis to the minus side of the center position prior to performing X-axis reference position return.</li>
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Move the axis 16mm (X-axis)/12mm (Y-axis)/12mm (Z-axis) (axis feed amount per motor single revolution) or more in the manual feed (Jog) mode.</li>
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Turn Off the power supply and then turn it back On.</li>
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Press the <text style="font-weight:bold;">[REF]</text> mode from the Operation Mode selection switch.</li>
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Select the desired axis with the Axis Selection switch.</li>
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Press the <text style="font-weight:bold;">[CYCLE START]</text> switch to return to the reference position.</li>
+      <li styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">When axis movement stops, confirm the coordinate value is 0.</li>
+    </list>
+    <para styleclass="Normal"></para>
+    <list id="5" type="ol" listtype="decimal" formatstring="%0:s " format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="2" styleclass="Normal" style="margin-bottom:7px; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:7px;">After removing or replacing the motor:</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Perform the above procedure Butt Type Reference Position Return to establish the reference positions. (Refer to <text style="color:#0000ff;">Installation Manual Chapter 2, 6.1 Butt Type Reference Position Return</text>).</para>
+    <para styleclass="Normal" style="margin-bottom:7px; margin-left:19px;">Contact your Makino service representative for assistance if any clarifications are necessary.</para>
+  </body>
+</topic>

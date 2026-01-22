@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ATC Maintenance Items</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">ATC Maintenance Items</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">B<text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">y controlling the ATC Maintenance items listed below, the operator is able to perform maintenance operations or recover the ATC from abnormal stop conditions.</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#8226;&#0;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Shutter Open</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Shutter Close</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Magazine Pot Horizontal</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Magazine Pot Vertical</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Arm Forward (M6 Direction)</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Arm Reverse</text></li>
+    </list>
+    <para styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"></para>
+  </body>
+</topic>

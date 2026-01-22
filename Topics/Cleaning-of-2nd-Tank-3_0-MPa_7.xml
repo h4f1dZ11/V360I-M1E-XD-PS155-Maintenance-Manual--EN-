@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Cleaning of 2nd Tank 3.0 MPa/7.0 MPa TSC Coolant Y-strainer</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Cleaning of 2nd Tank 3.0 MPa/7.0 MPa TSC Coolant Y-strainer</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:top; width:589px; border-left:none;">
+          <list id="6" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:0px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Turn Off the power supply before performing the following procedures.</text></li>
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:4px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">When performing any work be sure to place a warning tag on each operation panel, main power switch and other locations to ensure that other personnel do not inadvertently operate the machine ( Chapter 1 Safety </text><link displaytype="text" defaultstyle="false" type="topiclink" href="1_6-Implementing-Lock-out-and-Tag-out" styleclass="Table font Warning_1" style="color:#0000ff;">&quot;1.6 Lock-out &amp; Tag-out Confirmation&quot;</link><text styleclass="Table font Warning_1">).</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:8px;"></para>
+    <para styleclass="Normal"><text style="font-size:12pt;">Required items</text></para>
+    <para styleclass="Normal" style="margin-top:8px;"><table styleclass="Default" rowcount="3" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#dddddd; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="vertical-align:middle; width:30%;">
+          <para styleclass="Table font_Header">Item</para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Table font_Header">Type</para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:30%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px;"><text style="font-size:10pt; color:#000000;">Wrench</text></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px;"><text style="font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:30%;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px;"><text style="font-size:10pt; color:#000000;">Allen Key</text></para>
+        </td>
+        <td style="vertical-align:middle;">
+          <para styleclass="Normal" style="text-align:center; margin-top:4px; margin-bottom:4px;"><text style="font-size:10pt; color:#000000;">-</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Body_E_11mm_procedure"><text style="font-size:11pt; font-weight:bold;">Cleaning Procedure</text><text style="font-size:11pt;"> (Check and clean the Y-strainer when the TSC coolant pump flow rate drops significantly)</text></para>
+    <list id="4" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="1_11mm" style="font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Turn OFF the power supply</text><text style="font-size:11pt;">.</text></li>
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Dis-connect the TSC pump outlet pipe.</text></li>
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Remove cover [3] and cover [4].</text></li>
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Take out the pump to clean the Y-strainer [5].</text></li>
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Loosen the plug [1] and remove the strainer [2].</text></li>
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Clean the strainer [2], put back the strainer and tighten the plug [1].</text></li>
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Mount the pump to the mounting bracket and connect the outlet pipe to the pump.</text></li>
+    </list>
+    <list id="5" type="ol" listtype="decimal" formatstring="&#37;&#48;&#58;&#115;&#41;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="8" styleclass="1+_11mm" style="font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="1+_11mm"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Mount the cover [3] and cover [4].</text></li>
+    </list>
+    <para styleclass="Normal" style="text-indent:-26px; margin-top:6px; margin-left:74px; line-height:1.18;"><text style="font-size:11pt; color:#000000;">This completes the Y-strainer cleaning procedure.</text></para>
+    <para styleclass="Normal" style="text-indent:-26px; margin-top:6px; margin-left:74px; line-height:1.18;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-top:6px; margin-bottom:5px; line-height:1.18;"><image src="Fig 2.6 2nd Tank 3.0MPa7.0 MPa TSC Y-Strainer_edit.png" scale="31.20%" width="584" height="715" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Second Tank 3.0MPa/7.0 MPa TSC Y-Strainer</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

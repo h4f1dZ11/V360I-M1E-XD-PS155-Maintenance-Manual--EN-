@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.1 Area Surrounding Machine</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Area Surrounding Machine</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:395px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Action/Situation</para>
+        </td>
+        <td style="width:267px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Result</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:395px; height:28px;">
+          <para styleclass="Table Font_Left">Tripping over cables, piping, or change in height</para>
+        </td>
+        <td style="vertical-align:middle; width:267px; height:28px;">
+          <para styleclass="Table Font_Left">Falling</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:395px; height:28px;">
+          <para styleclass="Table Font_Left">Operator working on oily floor</para>
+        </td>
+        <td style="vertical-align:middle; width:267px; height:28px;">
+          <para styleclass="Table Font_Left">Fall, bone fracture, injury</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:395px; height:28px;">
+          <para styleclass="Table Font_Left">Bringing an open flame into the area</para>
+        </td>
+        <td style="vertical-align:middle; width:267px; height:28px;">
+          <para styleclass="Table Font_Left">Fire, burn</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:395px; height:46px;">
+          <para styleclass="Table Font_Left">Improper handling of chemical substances</para>
+        </td>
+        <td style="vertical-align:top; width:267px; height:46px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Skin lesions, eye injury, or respiratory problems</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

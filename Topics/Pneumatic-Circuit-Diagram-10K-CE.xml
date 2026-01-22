@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Pneumatic Circuit Diagram – 10K CE Machine and Options</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Pneumatic Circuit Diagram – 10K CE Machine and Options</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"><image src="Pneumatic Circuit Diagram – 10K CE.png" scale="20.00%" width="634" height="949" styleclass="Image Caption"></image></para>
+  </body>
+</topic>

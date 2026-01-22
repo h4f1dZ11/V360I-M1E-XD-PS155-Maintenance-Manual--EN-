@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.4.1 Warning Labels Locations on Standard Machine</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Warning Labels Locations on Standard Machine</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.1 Warning Labels Location_edit.png" scale="22.50%" width="866" height="486" styleclass="Image Caption"></image><text styleclass="Image Caption">&#32;</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER1=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; Warning Labels Location</text></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

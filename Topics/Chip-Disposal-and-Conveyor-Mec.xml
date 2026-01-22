@@ -1,0 +1,157 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Chip Disposal and Conveyor Mechanism</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Chip Disposal and Conveyor Mechanism</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Chip Disposal &amp; Conveyor Mechanism_edit.png" scale="15.00%" width="499" height="555" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="margin-bottom:5px;"><text style="font-weight:bold;">Machine Input/Output Signal</text></para>
+    <para styleclass="Normal"><table styleclass="Default" rowcount="13" colcount="3" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;">Signal Name</para>
+        </td>
+        <td style="width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;">Address</para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Description</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS8</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0009.4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">THROUGH SPINDLE COOLANT </text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0004.2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">NOZZLE COOLANT</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS6A</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0011.5</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">DRUM FILTER CLEANING PUMP</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS16</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0004.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">FLUSH COOLANT</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS16A</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0061.7</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">FIXTURE COOLANT</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS18</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0007.5</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">OIL SKIMMER</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS10</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center; line-height:1.00; tabstops:none;"><text styleclass="blj.blk.bll.blm.bln.blo.blp.blq.blr.bls.blt.blu.blv.blw.blx.bly.blz.bma.bmb.bmc.bmd.bme.bmf.bmg.bmh.bmi.bmj.bmk.bml.bmm.bmn.bmo.bmp.bmq.ee.ui-provider" style="font-family:Arial; font-size:10pt; font-weight:normal; font-style:normal; text-decoration:none; text-transform:none; vertical-align:baseline; color:#000000; background-color:transparent; letter-spacing:normal; letter-scaling:100%;">Y0009.5</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">SHOWER COOLANT</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS71</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0011.6</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">SECONDARY FILTER TANK PUMP ON</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS6F</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0009.2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">LUCC FORWARD</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">MS6R</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">Y0009.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">LUCC REVERSE</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">LS1319</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">X0005.1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">COOLANT TANK EMPTY DETECT</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">LCMAS</text></para>
+        </td>
+        <td style="vertical-align:middle; width:25%; height:20px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:10pt;">X0017.3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:50%; height:20px;">
+          <para styleclass="Normal" style="margin-left:3px;"><text style="font-size:10pt;">LUCC MANUAL INTERRUPT SWITCH</text></para>
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>

@@ -1,0 +1,117 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Electrical Circuit</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Electrical Circuit</para>
+    </header>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 2.2_chp16.png" scale="62.00%" width="528" height="527" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER16=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Electrical Circuit</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Table &lt;%HMTABLECOUNTER16=2%&gt;.&lt;%HMTABLECOUNTER=1%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Electrical Circuit Definitions</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="12" colcount="2" style="width:auto; cell-padding:7px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td style="width:155px; height:20px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Symbol</text></para>
+        </td>
+        <td style="width:450px; height:20px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Device Name</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">CM</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Compressor Motor</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">FM</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Fan Motor for Condenser</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">OLR</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Over Load Relay</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PRS</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Pressure Switch</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">L</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Power Lamp</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PTC</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PTC Starter (Start Relay)</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">TB</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Terminal Block</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">C11</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Capacitor for Running Compressor Motor</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MC</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Magnetic Contactor</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">TDR</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Time Delay Relay</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:155px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PB</text></para>
+        </td>
+        <td style="width:450px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Reset Switch (For Alarm Signal Reset)</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+  </body>
+</topic>

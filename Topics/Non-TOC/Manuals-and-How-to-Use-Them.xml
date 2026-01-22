@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>Manuals and How to Use Them</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;">Manuals and How to Use Them</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px; margin-bottom:11px;"><text style="font-size:11pt;">Manuals belonging to this machine.</text></para>
+    <para styleclass="Normal"><table rowcount="10" colcount="2" style="width:651px; cell-padding:4px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:180px; height:21px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name </text></para>
+        </td>
+        <td style="vertical-align:middle; width:415px; height:21px; border-left:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Description</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:52px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Instruction Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:52px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual includes the basic information (overview, specifications) needed for operation, practical operating procedures (operation), and troubleshooting procedures.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:34px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Periodic Maintenance Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:34px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual explains the intervals for periodic maintenance and work that is required for maintaining optimum performance of this machine.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:34px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Peripheral Device Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:34px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual describes the operating procedures for the peripheral devices connected to the machine body.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:180px; height:25px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">FANUC Set of NC Manuals</text></para>
+        </td>
+        <td style="width:415px; height:25px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">These manuals describe the operating procedures for FANUC equipment.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:34px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Maintenance Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:34px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual describes the mechanisms of the machine and how to perform the maintenance and adjustment work.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:34px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Installation Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:34px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual describes the preparation, transportation, and installation procedures for setup of the machine.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:34px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Electrical Schematic Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:34px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual is the circuit diagram of the Machine, for reference during machine maintenance and service.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:180px; height:68px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Parts Manual</text></para>
+        </td>
+        <td style="vertical-align:top; width:415px; height:68px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This manual provides the list of parts used in the machine for reference during maintenance and service. Order of spare/replacement parts can be made to your Makino Service Representative using the part numbers indicated in this Manual.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="width:180px; height:25px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Othe manuals for options</text></para>
+        </td>
+        <td style="width:415px; height:25px; border-top:none; border-left:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">These manuals describes the operating procedures for the optional devices.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.50;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">These manuals are provided in softcopy format with the machine.</text></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.50;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">In addition, the following manuals are provided in hardcopy format:</text></para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.50; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.50;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Instruction Manual</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.50;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Periodic Maintenance Manual</text></li>
+      <li styleclass="Normal" style="text-align:justify; margin-left:26px; line-height:1.50;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Electrical Schematic Manual</text></li>
+    </list>
+    <para styleclass="Normal" style="line-height:1.50;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">-NOTE-</text></para>
+    <para styleclass="Normal" style="text-align:justify;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Illustrations and other details may differ from the actual machine because the machine configuration is different depending on the specifications.</text></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.50; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Through Spindle Coolant Operation Timing Chart</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Through Spindle Coolant Operation Timing Chart</para>
+    </header>
+    <para styleclass="Normal">The M codes and signals used to control the through spindle function are described in the following table.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Table &lt;%HMTABLECOUNTER4=2%&gt;.&lt;%HMTABLECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Details of M Codes and Signals</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="6" colcount="2" style="width:auto; cell-padding:7px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:91px; height:20px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Name</text></para>
+        </td>
+        <td style="width:515px; height:20px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Description</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:91px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">MS8 (signal)</text></para>
+        </td>
+        <td style="width:515px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Controls the operation of pump motor for through spindle coolant.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:91px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M09 (M code)</text></para>
+        </td>
+        <td style="width:515px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Stops the coolant supply after execution of the specified block.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:91px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M319 (M code)</text></para>
+        </td>
+        <td style="width:515px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Stops the coolant supply without waiting for completion of axis travel and starts spindle orientation.</text></para>
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">This command does not stop the through spindle coolant drawback function</text></para>
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">(Refer to </text><link displaytype="text" defaultstyle="false" type="topiclink" href="" anchor="note" styleclass="" style="font-family:Arial; font-size:10pt; color:#0000ff;">NOTE</link><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">). As a result, removal of the coolant inside the tool (via drawback) and axis travel are performed simultaneously, reducing the amount of time it takes.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:91px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M06 (M code)</text></para>
+        </td>
+        <td style="width:515px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Specifies the tool change. The spindle tool is exchanged with the tool indexed to the next tool position. Axis travel cannot be performed during this process.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:91px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">M26 (M code)</text></para>
+        </td>
+        <td style="width:515px; height:20px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Through spindle coolant supply is started.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="margin-bottom:5px;"><anchor id="note" styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:0%;"></anchor><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:0%;">-NOTE-</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">The machine parameter No. 07051 is set to specify whether or not to stop the through spindle coolant pump after the coolant stop process. This function is used when M319 is specified during discharge of coolant.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">Tool change when through spindle coolant is stopped by M06/M09/M319</text></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 2.8.png" scale="55.00%" width="525" height="157" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Through Spindle Coolant Operating Timing Chart</text></para>
+  </body>
+</topic>

@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>General-Contents-2</title>
+  <body>
+    <header>
+      <para styleclass="Heading1">General-Contents-2</para>
+    </header>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 13 &#160; Cutting Fluid Supply Unit and Tank</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the cutting fluid supply unit, tank and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 14 &#160; Splash Guard</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the splash guard and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 15 &#160; Mist Collector (Option)</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the mist collector and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 16 &#160; Air Dryer (Option)</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the air dryer and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 17 &#160; Signal Tables</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the input and output signal list.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+  </body>
+</topic>

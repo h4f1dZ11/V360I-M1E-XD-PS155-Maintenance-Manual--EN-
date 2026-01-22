@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Drive</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Drive</para>
+    </header>
+    <para styleclass="Normal">Each axis is driven by a ball screw and servomotor. The axis movements (speed and positioning) are controlled by the machine controller.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"><image src="2.1.1 Drive flowchart.png" scale="65.00%" width="487" height="789" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal"></para>
+  </body>
+</topic>

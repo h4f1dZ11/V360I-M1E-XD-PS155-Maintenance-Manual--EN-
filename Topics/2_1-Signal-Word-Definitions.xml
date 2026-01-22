@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2.1 Signal Word Definitions</title>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;"><text style="font-weight:bold;">Signal Word Definitions</text></para>
+    </header>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:7px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Signal words are divided into four classes based on the degree of expected risk.</text></para>
+    <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table rowcount="5" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:192px; height:27px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Signal Word</para>
+        </td>
+        <td style="vertical-align:middle; width:464px; height:27px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Description</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:192px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:9px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image><text styleclass style="font-family:'Times New Roman'; font-size:10pt; color:#000000;">  </text><text styleclass style="font-family:Arial; font-size:18pt; font-weight:bold; color:#000000;">DANGER</text></para>
+        </td>
+        <td style="vertical-align:top; width:464px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:2px; margin-right:28px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Indicates an imminent hazard which, if not avoided, will result in death or serious injury.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:192px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:9px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image><text styleclass style="font-family:'Times New Roman'; font-size:10pt; color:#000000;">  </text><text styleclass style="font-family:Arial; font-size:18pt; font-weight:bold; color:#000000;">WARNING</text></para>
+        </td>
+        <td style="vertical-align:top; width:464px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:28px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Indicates a potential hazard which, if not avoided, will result in death or serious injury.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:192px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:9px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image><text styleclass style="font-family:'Times New Roman'; font-size:10pt; color:#000000;">  </text><text styleclass style="font-family:Arial; font-size:18pt; font-weight:bold; color:#000000;">CAUTION</text></para>
+        </td>
+        <td style="vertical-align:top; width:464px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:28px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Indicates a possible hazard which, if not avoided, may result in minor or moderate injury.</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:top; width:192px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:11px; margin-right:0px; margin-bottom:0px; margin-left:51px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:18pt; font-weight:bold; color:#000000;">NOTICE</text></para>
+        </td>
+        <td style="vertical-align:top; width:464px; height:57px;">
+          <para styleclass style="text-align:left; text-indent:0px; margin-top:4px; margin-right:0px; margin-bottom:0px; margin-left:8px; line-height:1.03; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:10pt; color:#000000;">Indicates a potential situation which, if not avoided, may result in physical damage to the machine or adversely affect the work environment.</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

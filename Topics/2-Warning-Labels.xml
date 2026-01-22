@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>2 Warning Labels</title>
+  <body>
+    <header>
+      <para styleclass="Heading2" style="page-break-before:always;"><text style="font-weight:bold;">Warning Labels</text></para>
+    </header>
+    <para styleclass style="text-align:left; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:15px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:714px right ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Warning labels are affixed to machine parts that are potentially hazardous to warn operators about the hazard and its level of danger and ensure the safety of operators.</text></para>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The warning labels include symbols to indicate the source of the danger, signal words to indicate the level of danger, and warning text to describe how to prevent the danger. When working at a location where a warning label is affixed, make sure that you fully understand the warning label information and definitions and follow the warning text that is provided. Failure to observe the information in the warning labels may result in death or another serious accident or damage to the machine.</text></para>
+  </body>
+</topic>

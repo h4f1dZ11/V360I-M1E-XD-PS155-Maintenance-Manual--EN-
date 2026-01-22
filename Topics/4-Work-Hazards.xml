@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4 Work Hazards</title>
+  <body>
+    <header>
+      <para styleclass="Heading2" style="page-break-before:always;">Work Hazards</para>
+    </header>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The following tables list examples of hazardous actions and situations during machine operation and maintenance and examples of the resulting accidents and incidents that may occur.</text></para>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">The points that the operator must observe when performing machine operation and maintenance vary depending on the situation. All possible points cannot be covered in the content of this manual. Operators and maintenance personnel must have a thorough understanding of the machine and must constantly be aware of safety and potentially dangerous situations when performing operation.</text></para>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:3px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Improper operation may result in death or damage to the machine.</text></para>
+  </body>
+</topic>

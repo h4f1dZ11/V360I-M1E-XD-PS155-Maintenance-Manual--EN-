@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>NC Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">NC Screen</para>
+    </header>
+    <para styleclass="Normal">T<text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">he NC screens that are frequently used during adjustment and maintenance are outlined in this section.</text></para>
+  </body>
+</topic>

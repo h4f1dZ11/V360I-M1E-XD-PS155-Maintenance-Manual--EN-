@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Component Name</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Component Name</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:10px;"><image src="Fig 1.2_Chp 8.png" scale="60.00%" width="316" height="389" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER8=1%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Automatic Grease Supply Unit</text></para>
+  </body>
+</topic>

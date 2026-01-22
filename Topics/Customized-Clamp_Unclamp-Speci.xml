@@ -1,0 +1,542 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Customized Clamp/Unclamp Specification</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Customized Clamp/Unclamp Specification</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The specification customized for your operation is:</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">Main Clamp/Unclamp</text></para>
+    <para styleclass="Normal"><table rowcount="12" colcount="9" style="width:auto; cell-padding:3px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:145px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Item</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; width:75px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:right; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Step</text></para>
+          <para styleclass="" style="text-align:right; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Signal</text></para>
+        </td>
+        <td colspan="4" style="vertical-align:middle; width:202px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Main Clamp</text></para>
+        </td>
+        <td colspan="3" style="vertical-align:middle; width:147px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Main Unclamp</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2</text></para>
+        </td>
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3</text></para>
+        </td>
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4</text></para>
+        </td>
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2</text></para>
+        </td>
+        <td style="width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:145px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2601</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2601</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:145px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2602</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2602</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:145px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2603</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2603</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:145px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2604</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2604</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:145px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">External Input 1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1881</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:145px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">External Input 2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:75px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1882</text></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:38px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:12pt; font-weight:bold; color:#000000;">Auxiliary Clamp/Unclamp</text></para>
+    <para styleclass="Normal"><table rowcount="12" colcount="5" style="width:auto; cell-padding:3px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:149px; height:28px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Item</text></para>
+        </td>
+        <td rowspan="2" style="vertical-align:middle; width:113px; height:28px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:right; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Step</text></para>
+          <para styleclass="" style="text-align:right; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Signal</text></para>
+        </td>
+        <td colspan="2" style="vertical-align:middle; width:151px; height:28px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Auxiliary Clamp</text></para>
+        </td>
+        <td style="vertical-align:middle; width:158px; height:28px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Auxiliary Unclamp</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:69px; height:29px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="width:66px; height:29px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2</text></para>
+        </td>
+        <td style="width:158px; height:29px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:149px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2601</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2601</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:149px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2602</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2602</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:149px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 3</text></para>
+        </td>
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2603</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2603</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td rowspan="2" style="vertical-align:middle; width:149px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Hydraulic Line 4</text></para>
+        </td>
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">PS2604</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">SL2604</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:149px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">External Input 1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1881</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:149px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">External Input 2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:113px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1882</text></para>
+        </td>
+        <td style="vertical-align:top; width:69px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:66px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+        <td style="vertical-align:top; width:158px; height:28px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal"><table rowcount="2" colcount="2" style="width:auto; cell-padding:3px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:middle">
+        <td style="width:93px; height:25px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Entered By</text></para>
+        </td>
+        <td style="width:207px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:93px; height:25px; border-top:none;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Date</text></para>
+        </td>
+        <td style="width:207px; height:25px; border-top:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:3px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>1.2 Work Environment Checks</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Work Environment Checks</para>
+    </header>
+    <list id="1" type="ul" listtype="bullet" formatstring="·" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Make sure the machine and surrounding area are fully lighted.</text></li>
+      <li styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Make sure the machine and surrounding area are tidy and clean at all times.</text></li>
+      <li styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Clean up any oil, cutting fluid, or chips scattered around the machine.</text></li>
+      <li styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">When performing work at high locations, use a stable footstool or stepladder.</text></li>
+      <li styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Keep all flammable substances away from the work area.</text></li>
+      <li styleclass style="text-align:justify; text-indent:11px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:36px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Maintain adequate working space.</text></li>
+    </list>
+    <para styleclass style="text-align:left; text-indent:-11px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:47px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:47px left ;"></para>
+  </body>
+</topic>

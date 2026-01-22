@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Confirming Signal Status</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Confirming Signal Status</para>
+    </header>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC signal status can be viewed from the ATC Maintenance screen.</text></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The current value of the input and output are represented by the yellow and green circles.</text></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#8226;&#0;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">when the value is 0, the circle is yellow.</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">when the value is 1, the circle is green.</text></li>
+    </list>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC status:</text></para>
+    <list id="2" type="ul" listtype="bullet" formatstring="&#8226;&#0;" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ; font-family:Arial; font-size:11pt; color:#000000;">
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:5px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">when the symbols and addresses are in black colour, the ATC is in Standby/Home condition.</text></li>
+      <li styleclass="" style="text-align:left; text-indent:-12px; margin-top:0px; margin-right:0px; margin-bottom:7px; margin-left:37px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:37px left,56px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">when the symbols and addresses are in red colour, the ATC is not in Standby/Home condition.</text></li>
+    </list>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.2_PS65.png" scale="60.00%" width="294" height="181" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; Confirming Signal Status</text></para>
+  </body>
+</topic>

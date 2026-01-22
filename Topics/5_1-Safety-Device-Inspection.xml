@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>5.1 Safety Device Inspection</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Safety Device Inspection</para>
+    </header>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Perform periodic maintenance and inspection of the safety devices used on this machine in order to ensure that they continue to function normally. Make sure that all maintenance staff fully understand the types of safety devices, functions, and locations described in </text><link displaytype="text" defaultstyle="false" type="topiclink" href="3-Safety-Devices" styleclass style="font-family:Arial; font-size:11pt; color:#0000ff;">3 Safety Devices</link><text styleclass style="font-family:Arial; font-size:11pt; color:#0000ff;"> </text><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">before performing any maintenance work.</text></para>
+    <para styleclass style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass style="font-family:Arial; font-size:11pt; color:#000000;">Before starting operation or maintenance work, inspect the safety devices, and if any are not functioning properly, abort machine operation.</text></para>
+  </body>
+</topic>

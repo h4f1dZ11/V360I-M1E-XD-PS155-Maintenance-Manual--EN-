@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Scale Air Unit</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Scale Air Unit</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The scale air unit raises the air pressure inside the scale devices to prevent the entry of chips and coolant.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">Perform the following adjustments and inspections if the scale air unit pressure gauge reading is 0.1MPa or less.</para>
+    <list id="1" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Normal" style="margin-bottom:8px; font-family:Symbol; font-size:11pt; color:#000000;">
+      <li styleclass="Normal" style="margin-bottom:8px;">Scale Air Pressure Adjustment</li>
+      <li styleclass="Normal" style="margin-bottom:8px;">Main Air Unit Check</li>
+    </list>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="margin-bottom:8px;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.2_Chp 11.png" scale="62.00%" width="293" height="296" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER11=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Scale Air Unit</text></para>
+  </body>
+</topic>

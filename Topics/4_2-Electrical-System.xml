@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>4.2 Electrical System</title>
+  <body>
+    <header>
+      <para styleclass="Heading3" style="page-break-before:always;">Electrical System</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:8px;"><table rowcount="9" colcount="2" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:392px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Action/Situation</para>
+        </td>
+        <td style="width:265px; height:24px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Result</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Performing inspection or maintenance operation without turning OFF the machine power (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href anchor="-NOTES-ElectricalSystem" style="color:#0000ff;">NOTES</link>)</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Electric shock, breakdown of the machine, abnormal operation, fire</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:24px;">
+          <para styleclass="Table Font_Left">Touching a device with residual voltage (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href anchor="-NOTES-ElectricalSystem" style="color:#0000ff;">NOTES</link>)</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:24px;">
+          <para styleclass="Table Font_Left">Electrical shock</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left">Miswiring</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Breakdown of the machine, abnormal operation, fire</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left">Loose screw in terminal block or other location</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Breakdown of the machine, abnormal operation, fire</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left">Machine controller door or junction box cover is left open</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Electric leakage, breakdown of the machine, abnormal operation, fire</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:24px;">
+          <para styleclass="Table Font_Left">Touching switches with wet hands</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:24px;">
+          <para styleclass="Table Font_Left">Electrical shock</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:40px;">
+          <para styleclass="Table Font_Left">Damage to wiring on floor surrounding machine</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:40px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Electric leakage, breakdown of the machine, abnormal operation, fire</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:392px; height:24px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Operation or maintenance by non-qualified personnel</para>
+        </td>
+        <td style="vertical-align:middle; width:265px; height:24px;">
+          <para styleclass="Table Font_Left" style="line-height:1.00;">Breakdown of the machine</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Notes"></para>
+    <para styleclass="Notes"><anchor id="-NOTES-ElectricalSystem"></anchor>-NOTES-</para>
+    <list id="1" type="ol" listtype="decimal" formatstring="%s" format-charset="DEFAULT_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="Notes" style="font-family:Arial; font-size:10pt; color:#231f20;">
+      <li styleclass="Notes">Prior to performing maintenance of the servo amplifiers, spindle amplifiers, and inverters, turn OFF the main power switch and confirm that the LED which indicates charging (red) for each amplifier and inverter is off.</li>
+      <li styleclass="Notes">High voltage current flows through components inside the junction box.</li>
+      <li styleclass="Notes">High voltage current continues to flow on the primary side of the main power switch even after the main power supply is turned OFF.</li>
+      <li styleclass="Notes">Electrical current continues to flow to lamps and outlets in the machine controller even after the main power supply is turned OFF.</li>
+    </list>
+  </body>
+</topic>

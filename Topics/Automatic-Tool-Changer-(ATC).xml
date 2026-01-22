@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Automatic Tool Changer (ATC)</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Automatic Tool Changer (ATC)</para>
+    </header>
+    <para styleclass="Normal">T<text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">he Automatic Tool Changer (ATC) is an integral part of the machine and needs to be properly maintained to preserve it in good working condition. The ATC system has been designed with features and functions to assist the operator in performing these operations easily and efficiently. The operator should familiarize with the maintenance procedures to minimize the downtime of the machine during maintenance or recovery operations.</text></para>
+  </body>
+</topic>

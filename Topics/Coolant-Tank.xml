@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Coolant Tank</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Coolant Tank</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The coolant tank consist of a tank where cutting fluid that has been returned from the machining chamber is stored and where an optional lift-up chip conveyor that discharges chips outside the machine is mounted.</para>
+    <para styleclass="Normal">For details on lift-up chip conveyor (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="H1-Chip-Disposal-and-Conveyor" style="color:#0000ff;">Chapter 12 Chip Disposal and Conveyor</link>).</para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.8 Coolant Tank_edit.png" scale="20.00%" width="462" height="755" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Coolant Tank</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

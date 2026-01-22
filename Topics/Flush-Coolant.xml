@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Flush Coolant</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Flush Coolant</para>
+    </header>
+    <para styleclass="Normal">Chips generated during machining are flushed by the cutting fluid. Mixture of cutting fluid and chips is transferred by flush coolant to the rear side of the machine going to the chip bucket or LUCC. This is where the cutting fluid and chips are separated and cutting fluid is reused on the same cycle.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:5px;"><image src="Fig 2.1_Chp 12.png" scale="58.00%" width="572" height="698" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER12=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Flush Coolant</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

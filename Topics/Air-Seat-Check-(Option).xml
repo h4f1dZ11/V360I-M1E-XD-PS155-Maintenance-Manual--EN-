@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Air Seat Check (Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Air Seat Check (Option)</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">Air seat check (option) is used to ensure that the component is securely held by the fixture for safety as well as to ensure good surface finish. The air seat panel is located at the top of main operator panel. A key is provided for the operator to enable/disable air seat check.</para>
+    <para styleclass="Normal">4 seat check signals are available: 7</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="5" colcount="3" style="width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:109px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Seat Check</text></para>
+        </td>
+        <td style="width:109px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Symbol</text></para>
+        </td>
+        <td style="width:127px; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Address</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:middle">
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">1</text></para>
+        </td>
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1781</text></para>
+        </td>
+        <td style="width:127px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0064.4</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">2</text></para>
+        </td>
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1782</text></para>
+        </td>
+        <td style="width:127px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0064.5</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">3</text></para>
+        </td>
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1783</text></para>
+        </td>
+        <td style="width:127px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0064.6</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:middle">
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">4</text></para>
+        </td>
+        <td style="width:109px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">LS1784</text></para>
+        </td>
+        <td style="width:127px; height:25px;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">X0064.7</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="Normal">These seat check signals can only be used for 1 fixture. 1 to 4 signals can be assigned to the fixture and each signal can be set to N.O. or N.C.</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Seat check is checked after the fixture is clamped during work setup. Seat check can also be set to monitor continuously during machining. </para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal">Seat check performed during work loading, it is possible to enable “Seat Retry”. This will allow the seat check operation to be attempted one more time before the Seat Check Failed alarm is triggered. During seat retry, the fixture will unclamp for 1sec then clamp back and perform the seat check again.</para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"></para>
+    <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:10px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-before:always; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The following alarm will occur if the seat check fails:</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="3" style="width:auto; cell-padding:5px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:#c0c0c0; alt-row-background-color:none;">
+      <thead style="vertical-align:middle">
+        <td style="width:10%; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">No.</text></para>
+        </td>
+        <td style="width:30%; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Description</text></para>
+        </td>
+        <td style="width:60%; height:25px; background-color:#c0c0c0;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Details</text></para>
+        </td>
+      </thead>
+      <tr style="vertical-align:top">
+        <td style="width:10%; height:25px;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">EX1642</text></para>
+        </td>
+        <td style="width:30%; height:25px;">
+          <para styleclass="" style="text-align:justify; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Seat Check Failed</text></para>
+        </td>
+        <td style="width:60%; height:25px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:13px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:48px left,96px left,144px left,192px left,240px left,288px left,336px left,384px left,432px left,480px left,528px left,576px left ;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Seat Check Pass Status not established during work loading. Replace the workpiece and retry. If problem repeats, check the fixture for defect. </text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Figure 5.1 Air Seat Control Panel_edit.png" scale="16.00%" width="469" height="280" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=5%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Air Seat Control Panel</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

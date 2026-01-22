@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Cyclone Filter (Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Cyclone Filter (Option)</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">A cyclone filter (for TSC) is installed to protect the rotary union and the pump from chips and other contaminants.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The cyclone filter uses centrifugal force to flush out fine chips. These chips are then suspended outside and settled down where it is separated from the coolant.</para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><image src="Fig 2.7_Chp 13.png" scale="63.00%" width="499" height="568" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Cyclone Filter (Option)</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

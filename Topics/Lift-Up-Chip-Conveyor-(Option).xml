@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Lift-Up Chip Conveyor (Option)</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">Lift-Up Chip Conveyor (Option)</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:8px;">The lift-up chip conveyor separates the chips and discharged the cutting fluid from the machine and returns the cutting fluid to the dirty tank.</para>
+    <para styleclass="Normal" style="margin-bottom:8px;">The cutting fluid in the dirty tank is then filtered through the drum unit filter and transferred to the primary (semi-clean) tank.</para>
+    <para styleclass="Normal">For details of cutting fluid (Refer to <link displaytype="text" defaultstyle="false" type="topiclink" href="Cutting-Fluid-Supply-Unit-and-" style="color:#0000ff;">Chapter 13 Cutting Fluid Supply Unit and Tank</link>)</para>
+    <para styleclass="Normal"></para>
+    <para styleclass="Normal" style="text-align:center; margin-bottom:8px;"><text styleclass="Image Caption">&#32;</text><image src="Fig 2.2 Lift Up Chip Conveyor_edit.png" scale="15.00%" width="391" height="576" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER12=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Lift-Up Chip Conveyor (Option)</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

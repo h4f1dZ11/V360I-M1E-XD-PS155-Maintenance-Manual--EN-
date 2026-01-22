@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ATC Magazine Maintenance Screen</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">ATC Magazine Maintenance Screen</para>
+    </header>
+    <para styleclass="Normal">T<text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">he ATC magazine maintenance items are incorporated together with the ATC actuators into the ATC Maintenance screen.</text></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="Fig 3.1_PS65.png" scale="85.00%" width="434" height="330" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER3=3%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; A</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">TC Magazine Maintenance Screen</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

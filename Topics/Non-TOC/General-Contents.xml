@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>General Contents</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;">General Contents</para>
+    </header>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">Chap. 1 &#160; Safety</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the safety devices and warning labels, work and operating precautions, and other information for ensuring safety operation of the machine. Be sure to read this chapter before using the machine.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">Chap. 2 &#160; Machine Controller</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the overview of the machine controller and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">Chap. 3 &#160; Machine Maintenance</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the overview of the machine maintenance and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt;"> Chap. 4 &#160; Spindle Head</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the overview of the spindle head and the mechanisms and adjustment procedures of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 5 &#160; </text><text style="font-size:11pt;">Feed Axes</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt;">This chapter describes the overview of the feed axes and the mechanisms and adjustment procedures of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 6 &#160; ATC Unit</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the the ATC unit and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 7 &#160; Spindle Cooler</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the spindle oil temperature controller unit and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 8 &#160; Automatic Grease Supply Unit</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the automatic grease supply unit and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 9 &#160;Spindle Hydraulic Unit</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the spindle hydraulic unit and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 10 &#160; &#160;Fixture Hydraulic Unit (Option)</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the fixture hydraulic unit and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 11 &#160; Pneumatic System</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the pneumatic unit and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"><text style="font-size:11pt; color:#1a1a1a;"> Chap. 12 &#160; Chip Disposal and Conveyor</text></para>
+    <para styleclass="Normal" style="text-align:justify; margin-right:2px; margin-bottom:4px; margin-left:5px;"><text style="font-size:11pt; color:#1a1a1a;">This chapter describes the overview of the chip disposal, conveyor and the mechanisms of the components.</text></para>
+    <para styleclass="Normal"><line style="height:2px; color:#000000;" /></para>
+    <para styleclass="Normal" style="margin-bottom:4px;"></para>
+  </body>
+</topic>

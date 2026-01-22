@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Cutting Fluid Supply Unit and Tank Mechanism</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Cutting Fluid Supply Unit and Tank Mechanism</para>
+    </header>
+    <para styleclass="Figure E"></para>
+    <para styleclass="Figure E"><image src="Fig 2.1 Cutting Fluids Supply Unit &amp; Tank Mechanism.png" scale="13.00%" width="574" height="581" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER13=2%&gt;.&lt;%HMFIGURECOUNTER=1%&gt;</text><text styleclass="Normal">&#32;</text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Cutting Fluids Supply Unit and Tank Mechanism</text></para>
+    <para styleclass="Figure E" style="page-break-before:always;"></para>
+  </body>
+</topic>

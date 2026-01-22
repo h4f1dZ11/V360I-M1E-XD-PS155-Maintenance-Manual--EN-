@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Overview</title>
+  <body>
+    <header>
+      <para styleclass="Heading2">Overview</para>
+    </header>
+    <para styleclass="Normal" style="margin-bottom:10px;">The spindle moves vertically on the column forming Z-axis. Built-in AC servomotor is used to drive the spindle. Oil-air lubrication is used for 10,000 and 14,000 rpm spindle bearing lubrication. The spindle housing and motor are cooled by jacket cooling.</para>
+    <para styleclass="Normal">Spindle with 14,000 rpm is standard specification and 10,000 rpm is optional. For both 10,000 and 14,000 rpm spindles, Through Spindle Coolant (TSC) function is optional.</para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:0px; margin-right:60px; margin-bottom:2px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:0px; margin-top:4px; margin-right:60px; margin-bottom:5px; margin-left:0px; line-height:1.18; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 1.1_PS.png" scale="60.00%" width="488" height="440" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER4=1%&gt;.&lt;%HMFIGURECOUNTER=1%&gt; </text><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">General View</text></para>
+    <para styleclass="Normal" style="text-align:center;"><table rowcount="2" colcount="4" style="width:auto; cell-padding:0px; cell-spacing:0px; page-break-inside:auto; border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid; background-color:none; head-row-background-color:none; alt-row-background-color:none;">
+      <tr style="vertical-align:top">
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:221px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+        <td style="width:53px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">No.</para>
+        </td>
+        <td style="width:221px; height:21px; background-color:#dddddd;">
+          <para styleclass="Table font_Header">Name</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">1</text></para>
+        </td>
+        <td style="vertical-align:middle; width:221px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Spindle Head Unit</text></para>
+        </td>
+        <td style="vertical-align:middle; width:53px; height:22px;">
+          <para styleclass="" style="text-align:center; text-indent:-1px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:1px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000; letter-scaling:99%;">2</text></para>
+        </td>
+        <td style="vertical-align:middle; width:221px; height:22px;">
+          <para styleclass="" style="text-align:left; text-indent:0px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:4px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:10pt; color:#000000;">Spindle Head Terminal Box</text></para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>ATC Shutter Mechanism</title>
+  <body>
+    <header>
+      <para styleclass="Heading3">ATC Shutter Mechanism</para>
+    </header>
+    <para styleclass="" style="text-align:left; text-indent:-29px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:29px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">The ATC shutter is opened and closed by a pneumatic cylinder.</text></para>
+    <para styleclass="" style="text-align:left; text-indent:-29px; margin-top:0px; margin-right:0px; margin-bottom:0px; margin-left:29px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"></para>
+    <para styleclass="" style="text-align:center; text-indent:-29px; margin-top:0px; margin-right:0px; margin-bottom:8px; margin-left:29px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Fig 2.6 ATC Shutter Mechanism_single.png" scale="15.00%" width="600" height="556" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER6=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Shutter Mechanism (Single Shutter)</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E"><image src="Fig 2.6 ATC Shutter Mechanism_double.png" scale="16.00%" width="584" height="546" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER6=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">ATC Shutter Mechanism (Double Shutter)</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"></para>
+    <para styleclass="Figure E" style="margin-bottom:10px;"><image src="Fig 2.7 ATC Piping Route_edit.png" scale="18.30%" width="453" height="733" styleclass="Image Caption"></image></para>
+    <para styleclass="Figure E" style="margin-bottom:0px;"><text styleclass="Normal" style="font-size:11pt;">Figure &lt;%HMFIGURECOUNTER6=2%&gt;.&lt;%HMFIGURECOUNTER%&gt; </text><text styleclass="" style="font-family:Arial; font-size:11pt; color:#000000;">Piping Route</text></para>
+    <para styleclass="Figure E" style="margin-bottom:0px; page-break-before:always;"></para>
+  </body>
+</topic>

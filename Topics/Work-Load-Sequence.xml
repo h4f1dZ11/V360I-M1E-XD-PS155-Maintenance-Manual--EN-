@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>Work Load Sequence</title>
+  <body>
+    <header>
+      <para styleclass="Heading4">Work Load Sequence</para>
+    </header>
+    <para styleclass="Normal" style="text-align:center;"></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="5.6.2 WorkLoad Seq_1.png" scale="60.00%" width="568" height="869" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center;"><image src="5.6.2 WorkLoad Seq_2.png" scale="60.00%" width="378" height="425" styleclass="Image Caption"></image></para>
+    <para styleclass="Normal" style="text-align:center; page-break-before:always;"></para>
+  </body>
+</topic>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../helpproject.xsd">
+  <title>3 Safety Devices</title>
+  <body>
+    <header>
+      <para styleclass="Heading2" style="page-break-before:always;">Safety Devices</para>
+    </header>
+    <para styleclass="Normal" style="text-align:justify; margin-top:8px;"><table styleclass="Default" rowcount="1" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:112px; border-right:none;">
+          <para styleclass="" style="text-align:center; text-indent:0px; margin-top:8px; margin-right:0px; margin-bottom:0px; margin-left:0px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:none;"><image src="Danger symbol no text.ipp" scale="16.00%" width="42" height="37" styleclass="Image Caption"></image></para>
+          <para styleclass="Warning_bold_1"><text styleclass="" style="font-family:Arial; font-size:11pt; font-weight:bold; color:#231f20;">DANGER</text></para>
+        </td>
+        <td style="vertical-align:middle; width:589px; border-left:none;">
+          <list id="2" type="ul" listtype="bullet" formatstring="&#183;" format-charset="SYMBOL_CHARSET" levelreset="true" legalstyle="false" startfrom="1" styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ; font-family:Symbol; font-size:10pt; color:#000000;">
+            <li styleclass="" style="text-align:left; text-indent:-11px; margin-top:8px; margin-right:0px; margin-bottom:8px; margin-left:11px; line-height:1.00; background-color:transparent; white-space:normal; page-break-inside:auto; page-break-after:auto; border:none; tabstops:117px left ;"><text styleclass="Table font Warning_1">Never disable or remove any safety device.</text></li>
+          </list>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="text-align:justify;"></para>
+    <para styleclass="Normal" style="text-align:justify; line-height:1.18;"><text style="font-size:11pt;">Safety devices are installed on the machine to protect operators and maintenance personnel. The safety devices also include ones that function on the condition that the operator observes the safety procedures. </text></para>
+  </body>
+</topic>

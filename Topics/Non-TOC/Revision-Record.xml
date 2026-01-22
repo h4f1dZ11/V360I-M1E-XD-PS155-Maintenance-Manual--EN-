@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="../../helpproject.xsl" ?>
+<topic template="Default" lasteditedby="noorhbo" version="2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../../helpproject.xsd">
+  <title>Revision Record</title>
+  <body>
+    <header>
+      <para styleclass="Heading1" style="text-align:center;">Revision Record</para>
+    </header>
+    <para styleclass="Normal" style="margin-top:15px;"><table styleclass="Default" rowcount="2" colcount="2" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:35%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Manual Title</text></para>
+        </td>
+        <td style="height:25px;">
+          <para styleclass="Normal" style="margin-top:2px; margin-left:8px;">PS155 MAINTENANCE MANUAL</para>
+          <para styleclass="Normal" style="margin-top:4px; margin-bottom:4px; margin-left:4px;">Professional <text style="font-family:&apos;Baguet Script&apos;; font-size:13pt; font-style:italic;">U</text></para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:35%; height:25px;">
+          <para styleclass="Normal" style="text-align:center;"><text style="font-size:11pt;">Manual No.</text></para>
+        </td>
+        <td style="vertical-align:middle; height:25px;">
+          <para styleclass="Normal" style="margin-left:8px;">V360I-M1E-XC</para>
+        </td>
+      </tr>
+    </table></para>
+    <para styleclass="Normal" style="margin-top:15px;"></para>
+    <para styleclass="Normal" style="margin-top:15px;"><table styleclass="Default" rowcount="4" colcount="4" style="border-width:0px; border-spacing:0px; border-collapse:collapse; cell-border-width:1px; border-color:#000000; border-style:solid;">
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:7%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">No.</para>
+        </td>
+        <td style="vertical-align:middle; width:28%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">Manual No.</para>
+          <para styleclass="Normal" style="text-align:center;">(Month/Year Issued)</para>
+        </td>
+        <td style="vertical-align:middle; width:42%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">Contents</para>
+        </td>
+        <td style="vertical-align:middle; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">Remarks</para>
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:7%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">1</para>
+        </td>
+        <td style="vertical-align:middle; width:28%; height:40px;">
+          <para styleclass="Normal" style="text-align:center; margin-left:8px;">V360I-M1E-XA</para>
+          <para styleclass="Normal" style="text-align:center; margin-left:8px;">(07/2024)</para>
+        </td>
+        <td style="width:42%; height:40px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Newly issued</para>
+        </td>
+        <td style="height:40px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:7%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">2</para>
+        </td>
+        <td style="vertical-align:middle; width:28%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">V360I-M1E-XB</para>
+          <para styleclass="Normal" style="text-align:center;">(09/2024)</para>
+        </td>
+        <td style="width:42%; height:40px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Controller name change from Professional S to Professional <text style="font-family:&apos;Baguet Script&apos;; font-size:13pt; font-style:italic;">u</text><text style="font-style:italic;">.</text></para>
+        </td>
+        <td style="height:40px;">
+        </td>
+      </tr>
+      <tr style="vertical-align:top">
+        <td style="vertical-align:middle; width:7%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">3</para>
+        </td>
+        <td style="vertical-align:middle; width:28%; height:40px;">
+          <para styleclass="Normal" style="text-align:center;">V360I-M1E-XC</para>
+          <para styleclass="Normal" style="text-align:center;">(10/2024)</para>
+        </td>
+        <td style="width:42%; height:40px;">
+          <para styleclass="Normal" style="margin-top:4px; margin-left:8px;">Controller name change from Professional <text style="font-family:&apos;Baguet Script&apos;; font-size:13pt; font-style:italic;">u</text> to Professional <text style="font-family:&apos;Baguet Script&apos;; font-size:13pt; font-style:italic;">U</text><text style="font-style:italic;">.</text></para>
+        </td>
+        <td style="height:40px;">
+        </td>
+      </tr>
+    </table></para>
+  </body>
+</topic>
